@@ -1,0 +1,8 @@
+{
+	"year": 2014,
+	"publisher": "Spole\304\215nost pro radioelektronick\303\251 in\305\276en\303\275rstv\303\255",
+	"author": "Cheong, L. Y., Jilani, M. T., Rehman, M. Z. U., Wen, W. P., Zakariya, M. A.",
+	"title": "Equivalent Circuit Modeling of the Dielectric Loaded Microwave Biosensor",
+	"download-url": "https://core.ac.uk/download/30312218.pdf",
+	"abstract": "This article describes the modeling of biological tissues at microwave frequency using equivalent lumped elements. A microwave biosensor based on microstrip ring resonator (MRR), that has been utilized previously for meat quality evaluation is used for this purpose. For the first time, the ring-resonator loaded with the lossy and high permittivity dielectric material, such as; biological tissue, in a partial overlay configuration is analyzed. The equivalent circuit modeling of the structure is then performed to identify the effect of overlay thickness on the resonance frequency. Finally, the relationship of an overlay thickness with the corresponding RC values of the meat equivalent circuit is established. Simulated, calculated and measured results are then compared for validation. Results are well agreed while the observed discrepancy is in acceptable limit",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1115/detc2020-22321",
+	"year": 2020,
+	"publisher": "'ASME International'",
+	"author": "Wang,  Q., Wilson,  A.",
+	"title": "Design and development of hardware to analyse and categorize the condition of batteries with the aim of enabling their re-use",
+	"download-url": "https://core.ac.uk/download/370309658.pdf",
+	"abstract": "This paper covers the design and implementation of an accurate, yet flexible test system for Lithium-Ion batteries. The system makes use of linear charge and discharge circuitry to ensure a low noise control, and can support the simultaneous and independent testing of six cells. The system is controlled and data collected by specialist MatLab\302\251 software with a user-friendly GUI. Experimental data is processed within the same environment to obtain the desired information. The system makes use of Full Cycle Coulomb Counting and Pulsed DC Load Analysis to obtain estimates for the State of Health (SoH) and State of Charge (SoC) of various cells, and to examine the effect of different use cases on cell performance through repeated testing",
+}

@@ -1,0 +1,8 @@
+{
+	"year": 2011,
+	"publisher": "International Frequency Sensor Association",
+	"author": "Gallego, Estefan\303\255a, Y\303\272fera Garc\303\255a, Alberto",
+	"title": "Generation of HDL models for bio-impedance sensor simulation based on microelectrodes",
+	"download-url": "https://core.ac.uk/download/157761098.pdf",
+	"abstract": "This paper presents a computer tool for automatic analysis of cell culture images. The program allows the extraction of relevant information from biological images for pre and post system analysis. In particular, this tool is being used for electrical characterization of electrode-solution-cell systems in which bio-impedance is the main parameter to be known. The correct modeling of this kind of systems enables both electronic system characterization for circuit design specifications and data decoding from measurements. The developed program allows cell culture image processing for geographic information extraction and sensor sizing, generating cell count and Analog Hardware Description Language (AHDL) equivalent circuits useful for whole system simulations",
+}

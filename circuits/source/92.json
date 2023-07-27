@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tim.2006.870103",
+	"year": 2006,
+	"publisher": "IEEE / Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http://www.ieee.org, Fax: (732)981-9667",
+	"author": "Angelini, Emma Paola Maria Virginia, Carullo, Alessio, Corbellini, Simone, Ferraris, F., Gallone, V., Grassini, Sabrina, Parvis, Marco, Vallan, Alberto",
+	"title": "Handheld-Impedance-Measurement System with seven-decade capability and potentiostatic function",
+	"download-url": "https://core.ac.uk/download/pdf/11383417.pdf",
+	"abstract": "This paper describes design and test of a new impedance-measurement system for nonlinear devices that exhibits a seven-decade range and works down to a frequency of 0.01 Hz. The system is specifically designed for electrochemical measurements, but the proposed architecture can be employed in many other fields where flexible signal generation and analysis are required. The system employs an unconventional signal generator based on two pulsewidth modulation (PWM) oscillators and an autocalibration system that allows uncertainties of less than 3% to be obtained over a range of 1 k\316\251 to 100 G\316\251. A synchronous demodulation processing allows the noise superimposed to the low-amplitude input signals to be made negligibl",
+}

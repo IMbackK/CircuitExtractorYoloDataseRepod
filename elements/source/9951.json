@@ -1,0 +1,9 @@
+{
+	"doi": "10.3389/fnins.2017.00033",
+	"year": 2017,
+	"publisher": "'Frontiers Media SA'",
+	"author": "Baoliang Lu, Hiroshi Yokoi, Masami Togane, Yinlai Jiang",
+	"title": "sEMG Sensor Using Polypyrrole-Coated Nonwoven Fabric Sheet for Practical Control of Prosthetic Hand",
+	"download-url": "https://core.ac.uk/download/232210893.pdf",
+	"abstract": "One of the greatest challenges of using a myoelectric prosthetic hand in daily life is to conveniently measure stable myoelectric signals. This study proposes a novel surface electromyography (sEMG) sensor using polypyrrole-coated nonwoven fabric sheet as electrodes (PPy electrodes) to allow people with disabilities to control prosthetic limbs. The PPy electrodes are sewn on an elastic band to guarantee close contact with the skin and thus reduce the contact electrical impedance between the electrodes and the skin. The sensor is highly customizable to fit the size and the shape of the stump so that people with disabilities can attach the sensor by themselves. The performance of the proposed sensor was investigated experimentally by comparing measurements of Ag/AgCl electrodes with electrolytic gel and the sEMG from the same muscle fibers. The high correlation coefficient (0.87) between the two types of sensors suggests the effectiveness of the proposed sensor. Another experiment of sEMG pattern recognition to control myoelectric prosthetic hands showed that the PPy electrodes are as effective as Ag/AgCl electrodes for measuring sEMG signals for practical myoelectric control. We also investigated the relation between the myoelectric signals\\u27 signal-to-noise ratio and the source impedances by simultaneously measuring the source impedances and the myoelectric signals with a switching circuit. The results showed that differences in both the norm and the phase of the source impedance greatly affect the common mode noise in the signal",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1088/0957-0233/23/8/085702",
+	"year": 2012,
+	"publisher": "'IOP Publishing'",
+	"author": "Brag\303\263s Bardia, Ramon, Rojas, C.R., Schoukens, J., S\303\241nchez Terrones, Benjam\303\255n, Vandersteen, G.",
+	"title": "On the calculation of the D-optimal multisine excitation power spectrum for broadband impedance spectroscopy measurements",
+	"download-url": "https://core.ac.uk/download/41768475.pdf",
+	"abstract": "The successful application of impedance spectroscopy in daily practice requires accurate\r\nmeasurements for modeling complex physiological or electrochemical phenomena in a single\r\nfrequency or several frequencies at different (or simultaneous) time instants. Nowadays, two\r\napproaches are possible for frequency domain impedance spectroscopy measurements: (1)\r\nusing the classical technique of frequency sweep and (2) using (non-)periodic broadband\r\nsignals, i.e. multisine excitations. Both techniques share the common problem of how to\r\ndesign the experimental conditions, e.g. the excitation power spectrum, in order to achieve\r\naccuracy of maximum impedance model parameters from the impedance data modeling\r\nprocess. The original contribution of this paper is the calculation and design of the D-optimal\r\nmultisine excitation power spectrum for measuring impedance systems modeled as 2R-1C\r\nequivalent electrical circuits. The extension of the results presented for more complex\r\nimpedance models is also discussed. The influence of the multisine power spectrum on the\r\naccuracy of the impedance model parameters is analyzed based on the Fisher information\r\nmatrix. Furthermore, the optimal measuring frequency range is given based on the properties\r\nof the covariance matrix. Finally, simulations and experimental results are provided to validate\r\nthe theoretical aspects presented.Peer ReviewedPostprint (published version",
+}

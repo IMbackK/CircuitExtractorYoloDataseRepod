@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/pr9111859",
+	"year": 2021,
+	"publisher": "'MDPI AG'",
+	"author": "B\305\261rmen, \303\201rp\303\241d, Fajfar, Iztok, Kunaver, Matev\305\276, Rojec, \305\275iga, Suboti\304\207, Vanja, Tuma, Tadej, \305\275ic, Mark",
+	"title": "Synthesizing Electrically Equivalent Circuits for Use in Electrochemical Impedance Spectroscopy through Grammatical Evolution",
+	"download-url": "https://core.ac.uk/download/528021309.pdf",
+	"abstract": "Electrochemical impedance spectroscopy (EIS) is an important electrochemical technique that is used to detect changes and ongoing processes in a given material. The main challenge of EIS is interpreting the collected measurements, which can be performed in several ways. This article focuses on the electrical equivalent circuit (EEC) approach and uses grammatical evolution to automatically construct an EEC that produces an AC response that corresponds to one obtained by the measured electrochemical process(es). For fitting purposes, synthetic measurements and data from measurements in a realistic environment were used. In order to be able to faithfully fit realistic data from measurements, a new circuit element (ZARC) had to be implemented and integrated into the SPICE simulator, which was used for evaluating EECs. Not only is the presented approach able to automatically (i.e., with almost no user input) produce a more than satisfactory EEC for each of the datasets, but it also can also generate completely new EEC configurations. These new configurations may help researchers to find some new, previously overlooked ongoing electrochemical processes",
+}

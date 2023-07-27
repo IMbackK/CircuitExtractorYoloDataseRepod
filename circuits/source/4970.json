@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/electronics6040102",
+	"year": 2017,
+	"publisher": "'MDPI AG'",
+	"author": "Anyaegbunam, Din, Jaguemont, Jingshan, Ma, Min, Qiuting, Tanim",
+	"title": "SoC estimation for lithium-ion batteries : review and future challenges",
+	"download-url": "https://core.ac.uk/download/286655685.pdf",
+	"abstract": "ABSTRACT: Energy storage emerged as a top concern for the modern cities, and the choice of the lithium-ion chemistry battery technology as an effective solution for storage applications proved to be a highly efficient option. State of charge (SoC) represents the available battery capacity and is one of the most important states that need to be monitored to optimize the performance and extend the lifetime of batteries. This review summarizes the methods for SoC estimation for lithium-ion batteries (LiBs). The SoC estimation methods are presented focusing on the description of the techniques and the elaboration of their weaknesses for the use in on-line battery management systems (BMS) applications. SoC estimation is a challenging task hindered by considerable changes in battery characteristics over its lifetime due to aging and to the distinct nonlinear behavior. This has led scholars to propose different methods that clearly raised the challenge of establishing a relationship between the accuracy and robustness of the methods, and their low complexity to be implemented.\nThis paper publishes an exhaustive review of the works presented during the last five years, where the tendency of the estimation techniques has been oriented toward a mixture of probabilistic techniques and some artificial intelligence",
+}

@@ -1,0 +1,8 @@
+{
+	"year": 2011,
+	"publisher": "",
+	"author": "Lizhong Xu",
+	"title": "Kinetic model based on molecular mechanism for action potential",
+	"download-url": "https://core.ac.uk/download/pdf/289854.pdf",
+	"abstract": "The Hodgkin-Huxley model for action potentials has been widely used but was not built on a microscopic description of the neuronal membrane. Through molecular dynamics simulations, the molecular mechanism of the channel currents is becoming clear. However, the quantitative link between molecular mechanism and action potential remains to be elucidated. Here, a kinetic model for action potential based on the molecular mechanism of the channel currents is proposed. Using it, the experimental observations about action potential are reproduced quantitatively and explained based on molecular mechanism. We find that the accumulation of Na+ ions near exit of the electivity filter is the dominant event to cause the refractory period of the Na+ channel and the types of the channel currents depend on its rate constants. The channel inductance represents the inertia of the channel to retain a certain ion binding state, the channel resistances include ones against state transition and charge transfer",
+}

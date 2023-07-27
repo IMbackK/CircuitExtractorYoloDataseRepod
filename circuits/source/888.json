@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/s18020494",
+	"year": 2018,
+	"publisher": "'MDPI AG'",
+	"author": "Mackin, Charles Edward, McVay, Elaine D., Palacios, Tomas",
+	"title": "Frequency Response of Graphene Electrolyte-Gated Field-Effect Transistors",
+	"download-url": "https://core.ac.uk/download/158414865.pdf",
+	"abstract": "This work develops the first frequency-dependent small-signal model for graphene electrolyte-gated field-effect transistors (EGFETs). Graphene EGFETs are microfabricated to measure intrinsic voltage gain, frequency response, and to develop a frequency-dependent small-signal model. The transfer function of the graphene EGFET small-signal model is found to contain a unique pole due to a resistive element, which stems from electrolyte gating. Intrinsic voltage gain, cutoff frequency, and transition frequency for the microfabricated graphene EGFETs are approximately 3.1 V/V, 1.9 kHz, and 6.9 kHz, respectively. This work marks a critical step in the development of high-speed chemical and biological sensors using graphene EGFETs.United States. Office of Naval Research (Grant N00014-12-1-0959)United States. Office of Naval Research (Grant N0014-16-1-2230)United States. National Aeronautics and Space Administration (Award NNX14AH11A)United States. Army Research Office (Contract W911NF-13-D-0001",
+}

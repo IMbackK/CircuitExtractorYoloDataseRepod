@@ -1,0 +1,9 @@
+{
+	"doi": "10.5772/intechopen.91004",
+	"year": 2020,
+	"publisher": "'IntechOpen'",
+	"author": "Constantinescu, Florin, Gheorghe, Alexandru Gabriel, Marin, Mihai Eugen, Ni\310\233escu, Miruna",
+	"title": "Circuit Models of Bioelectric Impedance",
+	"download-url": "https://core.ac.uk/download/322445966.pdf",
+	"abstract": "Accurate information about fluid distribution in different compartments of the human body is very important in various areas of medicine like drug dosage, renal replacement therapy, nutritional support, coronary artery disease, colorectal cancer and HIV infection. The body impedance analysis method being simple, inexpensive, accurate and noninvasive is largely used to this end. Several models of the body impedance are presented in this chapter. The first is the Cole model, a linear, first-order RC circuit valid for a frequency range of two decades. Another model, developed by De Lorenzo, employs a fractional-order impedance whose parameters are identified using the frequency characteristics of the impedance module and can be used for a frequency range of three decades. In addition, two other models are presented, a ladder RC model valid for a frequency range of two decades and its extension to three decades, as well as a circuit containing multiple RC branches connected in parallel. These two models are obtained by approximating the measured body admittance modulus with a physically realizable circuit function followed by the circuit synthesis. The last model can be simplified, its simplest form being the Cole model. Allowing a better prediction of the intracellular and extracellular water volumes, this model can be viewed as an extension of the Cole model",
+}

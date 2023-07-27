@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.orgel.2019.05.001",
+	"year": 2019,
+	"publisher": "'Elsevier BV'",
+	"author": "Crljen, \305\275eljko, Lon\304\215aric, Ivor, Pecqueur, S\303\251bastien, Vuillaume, Dominique, Zlati\304\207, Vinko",
+	"title": "The Non-Ideal Organic Electrochemical Transistors Impedance",
+	"download-url": "https://core.ac.uk/download/322696541.pdf",
+	"abstract": "Organic electrochemical transistors offer powerful functionalities for\nbiosensors and neuroinspired electronics, with still much to understand on the\ntime dependent behavior of this electrochemical device. Here, we report on\ndistributed element modeling of the impedance of such microfabricated device,\nsystematically performed under a large concentration variation for KCl(aq) and\nCaCl2(aq). We propose a new model which takes into account three main\ndeviations to ideality, that were systematically observed, caused by both the\nmaterials and the device complexity, over large frequency range (1 Hz to 1\nMHz). More than introducing more freedom degree, the introduction of these non\nredundant parameters and the study of their behaviors as function of the\nelectrolyte concentration and applied voltage give a more detailed picture of\nthe OECT working principles. This optimized model can be further useful for\nimproving OECT performances in many applications (e.g. biosensors,\nneuroinspired devices) and circuit simulations.Comment: Full paper with supporting informatio",
+}

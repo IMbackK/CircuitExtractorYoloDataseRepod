@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/ma11010048",
+	"year": 2017,
+	"publisher": "'MDPI AG'",
+	"author": "De Mey, Gilbert, Gokceoren, Argun Talat, Hertleer, Carla, Nuramdhani, Ida, Odhiambo, Sheila Atieno, Van Langenhove, Lieva",
+	"title": "Electrochemical impedance analysis of a PEDOT : PSS-based textile energy storage device",
+	"download-url": "https://core.ac.uk/download/147045733.pdf",
+	"abstract": "A textile-based energy storage device with electroactive PEDOT:PSS (poly(3,4-ethylenedioxythiophene)/poly(4-styrenesulfonate)) polymer functioning as a solid-state polyelectrolyte has been developed. The device was fabricated on textile fabric with two plies of stainless-steel electroconductive yarn as the electrodes. In this study, cyclic voltammetry and electrochemical impedance analysis were used to investigate ionic and electronic activities in the bulk of PEDOT:PSS and at its interfaces with stainless steel yarn electrodes. The complex behavior of ionic and electronic origins was observed in the interfacial region between the conductive polymer and the electrodes. The migration and diffusion of the ions involved were confirmed by the presence of the Warburg element with a phase shift of 45\302\260 (n = 0.5). Two different equivalent circuit models were found by simulating the model with the experimental results: (QR)(QR)(QR) for uncharged and (QR)(QR)(Q(RW)) for charged samples. The analyses also showed that the further the distance between electrodes, the lower the capacitance of the cell. The distribution of polymer on the cell surface also played important role to change the capacitance of the device. The results of this work may lead to a better understanding of the mechanism and how to improve the performance of the device",
+}

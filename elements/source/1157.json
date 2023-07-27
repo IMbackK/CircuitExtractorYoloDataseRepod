@@ -1,0 +1,9 @@
+{
+	"doi": "10.1364/boe.395474",
+	"year": 2020,
+	"publisher": "'The Optical Society'",
+	"author": "Abayzeed, Sidahmed A.",
+	"title": "Plasmonic-based impedance microspectroscopy of optically heterogeneous samples",
+	"download-url": "https://core.ac.uk/download/340108697.pdf",
+	"abstract": "A robust impedance microscopy technique is presented. This optical tool enables high resolution imaging of electrical properties with promising biophysical applications. The underlying principle is that surface plasmon resonance (SPR) sensors are able to measure perturbations of surface charge density and therefore can be used to compute the impedance of surface-adhered cells. However, the ability to perform reliable quantitative impedance imaging is affected by the optical heterogeneity of the cell-sensor interface. To address this issue, a novel method for quantitative time-resolved resonance angle tracking is developed and applied to correct for the effect of the optical properties. To demonstrate the capability of this technique, impedance microspectroscopy of bovine serum albumin (BSA) patterns was performed enabling measurements of capacitance with submicroscopic resolution. The work presented offers an impedance microspectroscopy method that will create new avenues in studying the electrical properties of single cells and biomolecules as well as bio-electrical currents",
+}

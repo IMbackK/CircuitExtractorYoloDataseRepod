@@ -1,0 +1,8 @@
+{
+	"year": 2012,
+	"publisher": "ODU Digital Commons",
+	"author": "Beskok, Ali, Kolb, Juergen F., Sabuncu, Ahmet C., Zhuang, Jie",
+	"title": "Microfluidic Impedance Spectroscopy as a Tool for Quantitative Biology and Biotechnology",
+	"download-url": "https://core.ac.uk/download/217291789.pdf",
+	"abstract": "A microfluidic device that is able to perform dielectric spectroscopy is developed. The device consists of a measurement chamber that is 250 μm thick and 750 μm radius. Around 1000 cells fit inside the chamber assuming average quantities for cell radius and volume fraction. This number is about 1000 folds lower than the capacity of conventional fixtures. A T-cell leukemia cell line Jurkat is tested using the microfluidic device. Measurements of deionized water and salt solutions are utilized to determine parasitic effects and geometric capacitance of the device. Physical models, including Maxwell-Wagner mixture and double shell models, are used to derive quantities for sub-cellular units. Clausius-Mossotti factor of Jurkat cells is extracted from the impedance spectrum. Effects of cellular heterogeneity are discussed and parameterized. Jurkat cells are also tested with a time domain reflectometry system for verification of the microfluidic device. Results indicate good agreement of values obtained with both techniques. The device can be used as a unique cell diagnostic tool to yield information on sub-cellular units.              (C) 2012 American Institute of Physics",
+}

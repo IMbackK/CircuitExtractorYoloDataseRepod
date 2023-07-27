@@ -1,0 +1,9 @@
+{
+	"doi": "10.5772/intechopen.89334",
+	"year": 2019,
+	"publisher": "'IntechOpen'",
+	"author": "Kivirand, Kairi, Min, Mart, Rinken, Toonika",
+	"title": "Challenges and Applications of Impedance-Based Biosensors in Water Analysis",
+	"download-url": "https://core.ac.uk/download/322444591.pdf",
+	"abstract": "Monitoring of the environment is a global priority due to the close connection between the environmental pollution and human health. Many analytical techniques using various methods have been developed to detect and monitor the levels of pollutants (pesticides, toxins, bacteria, drug residues, etc.) in natural water bodies. The latest trend in modern analysis is to measure pollutants in real-time in the field. For this purpose, biosensors have been employed as cost-effective and fast analytical techniques. Among biosensors, impedance biosensors have significant potential for use as simple and portable devices. These sensors involve application of a small amplitude AC voltage to the sensor electrode and measurement of the in-/out-of-phase current response as a function of frequency integrated with some biorecognition element on the sensing electrodes that can bind to the target, modifying the sensor electrical parameters. However, there are some drawbacks concerning their selectivity, stability, and reproducibility. The aim of this paper is to give a critical overview of literature published during the last decade based on the development issues of impedimetric biosensors and their applicability in water analysis",
+}

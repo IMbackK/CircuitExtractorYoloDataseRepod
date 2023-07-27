@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.ijhydene.2020.06.029",
+	"year": 2020,
+	"publisher": "'Elsevier BV'",
+	"author": "Athanasiou, Bendell, Bisquert, Brey, Brug, Buchal, Charles W. Dunnill, Cheng, Cook, Dawood, Dincer, Douglas, Ehrensberger, Ganesh, Gannon, Gannon, Gonz\303\241lez-Buch, Grigoriev, Herraiz-Cardona, Herraiz-Cardona, Hesse, Hong, Hsu, Huang, Hwang, Jones, Jovic, Kant, Krstaji\304\207, Larcher, Levi, Li, Locorotondo, Marceta Kaninski, McCrory, McCrory, Montella, Papadopoulos, Passas, Phillips, Phillips, Romare, Solmaz, Solmaz, Steffen, Tozar, Urs\303\272a, Valsa, William J.F. Gannon, Yang, Yuan, Zhang",
+	"title": "Apparent disagreement between cyclic voltammetry and electrochemical impedance spectroscopy explained by time-domain simulation of constant phase elements",
+	"download-url": "https://core.ac.uk/download/328698078.pdf",
+	"abstract": "A selection of electrodes was analysed using cyclic-voltammetry (CV) and electrochemical impedance spectroscopy (EIS), and a large apparent resistance was observed with CV that was absent with EIS. The explanation for this resistance anomaly was traced to the constant phase element (CPE) behaviour which is exhibited by the electrode double-layer capacitance. Computer simulations of the transient-response of an RQ network (where Q represents a CPE) to a voltage ramp revealed bi-exponential behaviour, with two separate time-constants. One is equal to the product of R and Q, but the other is fixed at about 0.3 s. This finding is supported by observation, by mathematical derivation, and by a novel mixed-domain five-component equivalent circuit model. In addition, example code is provided as a basis for transient simulations of constant phase elements with arbitrary voltage waveforms. This explanation assists in the correct interpretation of potentially misleading cyclic voltammetry results",
+}

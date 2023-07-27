@@ -1,0 +1,8 @@
+{
+	"year": 2019,
+	"publisher": "",
+	"author": "Ali Mostaed (7206197), Dawei Wang (471687), Derek C. Sinclair (1683004), Ian M. Reaney (1683007), J. C. Vardaxoglou (1257960), Julian S. Dean (7206200), Shiyu Zhang (1222824), Sinan S. Faouri (7206194), William Whittow (1224405)",
+	"title": "High quality factor cold sintered Li2MoO4BaFe12O19 composites for microwave applications",
+	"download-url": "https://core.ac.uk/download/288351812.pdf",
+	"abstract": "Ceramics-ceramic composites in series (1-x)Li2MoO4-xBaFe12O19 (LMO-BF12, 0.00 \342\211\244 x \342\211\244 0.15) have been cold sintered at 120 \302\260C and their structure and properties characterized. X-ray diffraction, scanning electron microscopy (SEM) and transmission electron microscopy (TEM) confirmed that compositions were dual phase and had a dense microstructure. Composites in the xBF12-(1-x)LMO (0.0 \342\211\244 x \342\211\244 0.15) series resonated at MW frequencies (\342\210\2746 GHz) with 5.6\342\211\244\316\265r \342\211\244 5.8 and Qf = 16,000\342\200\22322,000 GHz, despite the black colour of compositions with x > 0. The permeability of the composites was measured in the X band (\342\210\2748 GHz) and showed an increase from 0.94 (x = 0.05) to 1.02 (x = 0.15). Finite element modelling revealed that the volume fraction of BF12 dictates the conductivity of the material, with a percolation threshold at 10 vol% BF12 but changes in \316\265r as a function of x were readily explained using a series mixing model. In summary, these composites are considered suitable for the fabrication of dual mode or enhanced bandwidth microstrip patch antennas",
+}

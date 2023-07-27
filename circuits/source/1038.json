@@ -1,0 +1,9 @@
+{
+	"doi": "10.4271/2013-01-2561",
+	"year": 2011,
+	"publisher": "'SAE International'",
+	"author": "Leijen, Peter, Scott, Jonathan B.",
+	"title": "Failure analysis of some Toyota Prius battery packs and potential for recovery",
+	"download-url": "https://core.ac.uk/download/29199472.pdf",
+	"abstract": "The Toyota Prius battery pack consists of 38 individual battery blades, each blade contains 6 NiMH cells in series. This means that each pack contains 228 NiMH cells. Each cell has the potential to fail. This report investigates the mode of failure of Prius battery packs by first analysing a number of packs in the lab, and then road testing them in a Toyota Prius. The analysis of the battery packs shows that some packs had aged \342\200\234linearly\342\200\235, that is in a balanced manner, such that the state of health of all blades remained similar. However, in other packs discrete blades had significantly different states of health. A pack that consists of cells that are matched in both state of health and state of charge delivers the best performance. The research also showed that the worst cell in the pack determines the overall pack performance. This was demonstrated by substituting reducedcapacity or short-circuited blades into a functioning battery pack. A vehicle with a pack consisting of 37 2400 mAh battery blades and one 1200 mAh battery blade was only able to drive 1.3 km in Electric Vehicle mode, as opposed to 2.6 km with a pack consisting of 38 2400 mAh battery blades",
+}

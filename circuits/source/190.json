@@ -1,0 +1,9 @@
+{
+	"doi": "10.14279/depositonce-9511",
+	"year": 2019,
+	"publisher": "",
+	"author": "Korth Pereira Ferraz, Pablo, Kowal, Julia",
+	"title": "A Comparative Study on the Influence of DC/DC-Converter Induced High Frequency Current Ripple on Lithium-Ion Batteries",
+	"download-url": "https://core.ac.uk/download/287885238.pdf",
+	"abstract": "Modern battery energy systems are key enablers of the conversion of our energy and mobility sector towards renewability. Most of the time, their batteries are connected to power electronics that induce high frequency current ripple on the batteries that could lead to reinforced battery ageing. This study investigates the influence of high frequency current ripple on the ageing of commercially available, cylindrical 18,650 lithium-ion batteries in comparison to identical batteries that are aged with a conventional battery test system. The respective ageing tests that have been carried out to obtain numerous parameters such as the capacity loss, the gradient of voltage curves and impedance spectra are explained and evaluated to pinpoint how current ripple possibly affects battery ageing. Finally, the results suggest that there is little to no further influence of current ripple that is severe enough to stand out against ageing effects due to the underlying accelerated cyclic ageing",
+}

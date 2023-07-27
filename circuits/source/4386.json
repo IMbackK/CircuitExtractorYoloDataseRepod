@@ -1,0 +1,8 @@
+{
+	"year": 2013,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Alam, Mohammed Khorshed, Khan, Faisal Habib",
+	"title": "PV faults: Overview, modeling, prevention and detection techniques",
+	"download-url": "https://core.ac.uk/download/276280108.pdf",
+	"abstract": "pre-printRecent PV faults and subsequent fire-hazards on April 5, 2009, in Bakersfield, California, and April 16, 2011, in Mount Holly, North Carolina provide evidence of a lack of knowledge among PV system manufacturers and installers about different PV faults. The conducted survey within the scope of this paper describes various faults in a PV plant, and explains the limitations of existing detection and suppression techniques. Different fault detection techniques proposed in literatures have been discussed and it was concluded that there is no universal fault detection technique that can detect and classify all faults in a PV system. Moreover, this digest proposes a transmission line model for PV panels that can be useful for interpreting faults in PV using different refelectomery methods",
+}

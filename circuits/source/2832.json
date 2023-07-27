@@ -1,0 +1,8 @@
+{
+	"year": 2018,
+	"publisher": "",
+	"author": "Alag\303\266z, Bar\304\261\305\237 Baykant, Alisoy, Haf\304\261z",
+	"title": "Estimation of Reduced Order Equivalent Circuit Model Parameters of Batteries from Noisy Current and Voltage Measurements",
+	"download-url": "https://core.ac.uk/download/539864094.pdf",
+	"abstract": "Identification of reduced order equivalent circuit battery model from current and voltage measurements allows modeling, classification and monitoring of batteries, and these tasks are very essential for battery management systems. This study presents a theoretical study to investigate performance of computer-aided identification of the reduced order equivalent circuit battery model from noisy current and voltage measurement data. The battery model is expressed in the form of fractional order differential equation and time domain numerical solution of this model is numerically calculated according to Gr\303\274nwald-Letnikov definition of fractional-order derivative. Paper demonstrates an application of this numerical solution so that it can fit noisy current and voltage measurement data, and thus parameters of the equivalent circuit battery model can be estimated. Particle swarm optimization (PSO) method is used to solve this model fitting problem. Performance of the parameter estimation method is investigated for various noise levels of the synthetically generated current and voltage profiles",
+}

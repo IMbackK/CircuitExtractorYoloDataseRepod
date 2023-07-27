@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/en14082268",
+	"year": 2021,
+	"publisher": "'MDPI AG'",
+	"author": "Cao, Wen, Fan, Yongcun, Fernandez, Carlos, Huang, Junhan, Shi, Haotian, Wang, Shunli",
+	"title": "A novel adaptive function-dual Kalman filtering strategy for online battery model parameters and state of charge co-estimation.",
+	"download-url": "https://core.ac.uk/download/426872368.pdf",
+	"abstract": "This paper aims to improve the stability and robustness of the state-of-charge estimation algorithm for lithium-ion batteries. A new internal resistance-polarization circuit model is constructed on the basis of the Thevenin equivalent circuit to characterize the difference in internal resistance between charge and discharge. The extended Kalman filter is improved through adding an adaptive noise tracking algorithm and the Kalman gain in the unscented Kalman filter algorithm is improved by introducing a dynamic equation. In addition, for benignization of outliers of the two above mentioned algorithms, a new dual Kalman algorithm is proposed in this paper by adding a transfer function and through weighted mutation. The model and algorithm accuracy is verified through working condition experiments. The result shows that: the errors of the three algorithms are all maintained within 0.8% during the initial period and middle stages of the discharge; the maximum error of the improved extension of Kalman algorithm is over 1.5%, that of improved unscented Kalman increases to 5%, and the error of the new dual Kalman algorithm is still within 0.4% during the latter period of the discharge. This indicates that the accuracy and robustness of the new dual Kalman algorithm is better than those of traditional algorithm",
+}

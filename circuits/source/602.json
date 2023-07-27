@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/s16081159",
+	"year": 2016,
+	"publisher": "",
+	"author": "Demosthenous, A, Valente, V",
+	"title": "Wideband Fully-Programmable Dual-Mode CMOS Analogue Front-End for Electrical Impedance Spectroscopy",
+	"download-url": "https://core.ac.uk/download/79527055.pdf",
+	"abstract": "This paper presents a multi-channel dual-mode CMOS analogue front-end (AFE) for electrochemical and bioimpedance analysis. Current-mode and voltage-mode readouts, integrated on the same chip, can provide an adaptable platform to correlate single-cell biosensor studies with large-scale tissue or organ analysis for real-time cancer detection, imaging and characterization. The chip, implemented in a 180-nm CMOS technology, combines two current-readout (CR) channels and four voltage-readout (VR) channels suitable for both bipolar and tetrapolar electrical impedance spectroscopy (EIS) analysis. Each VR channel occupies an area of 0.48 mm 2 , is capable of an operational bandwidth of 8 MHz and a linear gain in the range between -6 dB and 42 dB. The gain of the CR channel can be set to 10 k\316\251, 50 k\316\251 or 100 k\316\251 and is capable of 80-dB dynamic range, with a very linear response for input currents between 10 nA and 100 \316\274 A. Each CR channel occupies an area of 0.21 mm 2 . The chip consumes between 530 \316\274 A and 690 \316\274 A per channel and operates from a 1.8-V supply. The chip was used to measure the impedance of capacitive interdigitated electrodes in saline solution. Measurements show close matching with results obtained using a commercial impedance analyser. The chip will be part of a fully flexible and configurable fully-integrated dual-mode EIS system for impedance sensors and bioimpedance analysis",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1149/1.2008940",
+	"year": 2005,
+	"publisher": "'The Electrochemical Society'",
+	"author": "Guo, X., Meyer, R., Waser, R.",
+	"title": "Nonlinear electrical properties of grain boundaries in oxygen ion conductors - Modeling the varistor behavior",
+	"download-url": "https://core.ac.uk/download/34930376.pdf",
+	"abstract": "We report on numerical simulations of the grain-boundary varistor behavior recently observed in Y2O3-doped CeO2 of high purity. The aim of this study is to disclose the nature of the nonlinear electrical properties of the grain boundaries in oxygen ion conductors. Under small voltages (< 25 mV), the simulation shows a linear current-voltage relation dominated by the grain-boundary resistance. Under intermediate voltages (25-200 mV), the simulation discloses a grain-boundary resistance breakdown and a nonlinear current-voltage relation. The increase of ionic charge carriers in the grain-boundary space-charge layer is the cause for the nonlinear behavior. Calculations are compared to experimental results. (c) 2005 The Electrochemical Society",
+}

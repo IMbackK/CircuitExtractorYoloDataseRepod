@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.sbsr.2015.11.008",
+	"year": 2016,
+	"publisher": "OpenSIUC",
+	"author": "Suni, Ian",
+	"title": "Antibody regeneration on degenerate Si electrodes for calibration and reuse of impedance biosensors",
+	"download-url": "https://core.ac.uk/download/60582902.pdf",
+	"abstract": "Mild denaturing agents were studied for antibody regeneration atop degenerate (highly doped) Si and Au electrodes using comparable 11-carbon chain linker reagents onto which the mouse monoclonal antibody to peanut protein Ara h 1 is covalently immobilized. Of the reagents studied, only 200 mM KSCN is effective for antibody regeneration and detection of Ara h 1 atop Au electrodes, allowing 15 days of sensor usage after daily antibody unfolding and refolding, while 200 mM KSCN +10 mM HF is effective atop degenerate Si electrodes, allowing 30 days of sensor usage. The addition of HF is required for antibody regeneration atop Si electrodes, as demonstrated by cyclic voltammetry in the presence of 5.0 mM K3Fe(CN)6/K4Fe(CN)6 at pH 7.3, where the oxidation/reduction peaks can be observed only in the presence of HF. The impedance spectrum for detection of Ara h 1 gradually degrades during these multi-day regeneration trials, but calibration experiments performedwithin one day illustrate that sensor electrodes can be calibrated on the day of use towithin about 2%",
+}

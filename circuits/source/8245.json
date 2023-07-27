@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.ifacol.2020.12.1861",
+	"year": 2020,
+	"publisher": "'Elsevier BV'",
+	"author": "Bui, Truong Minh Ngoc, Faraji Niri, Mona, Marco, James, Yu, Tung Fai",
+	"title": "Model-based end of discharge temperature prediction for lithium-ion batteries",
+	"download-url": "https://core.ac.uk/download/327071593.pdf",
+	"abstract": "Battery fast charging is one of the key techniques that affects the public acceptability and commercialization of electric vehicles. Temperature is the critical barrier for fast charging as at low temperatures an increased risk of lithium plating and at high temperatures safety concerns limits the charging rate. To facilitate a fast charging mechanism, preconditioning the battery and maintaining its temperature is vital. Battery temperature prediction before a fast charging event can help reducing the energy consumption for battery preconditioning. In this paper, we propose a method for battery end of discharge temperature prediction for fast charging purposes.  Firstly, a Gaussian mixture data clustering is performed on battery load data characterisation, subsequently a Markov model is trained for load prediction, and finally a battery lumped parameter equivalent circuit and thermal model is developed and employed for end of discharge time and ultimately end of discharge temperature prediction. Cylindrical lithium-ion battery is selected to prove the concept and both simulations and experiments show the capabilities of the proposed method for temperature prediction of batteries under load profiles obtained from real-world drive cycles of electric vehicles",
+}

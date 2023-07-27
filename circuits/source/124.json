@@ -1,0 +1,8 @@
+{
+	"year": 2011,
+	"publisher": "IEEE Computer Society",
+	"author": "Ca\303\261ete, Daniel, Daza Navarro, Mar\303\255a Paula, Y\303\272fera Garc\303\255a, Alberto",
+	"title": "Using microelectrode models for real time cell-culture monitoring",
+	"download-url": "https://core.ac.uk/download/161254990.pdf",
+	"abstract": "This paper proposes a cell-microelectrode model for cell biometry applications, based on the area overlap as main parameter. The model can be applied to cell size identification, cell count, and their extension to cell growth and dosimetry protocols. Experiments performed with comercial electrodes are presented, illustrating a procedure to obtain cell number in both growth and dosimetry processes. Results obtained for the AA8 cell line are promising.Junta de Andaluc\303\255a P0-TIC-538",
+}

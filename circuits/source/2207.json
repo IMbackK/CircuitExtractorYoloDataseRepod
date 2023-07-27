@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tte.2020.2986606",
+	"year": 2020,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "., Paramjeet, Braglia, Michele, Lophitis, Neophytos, Mumtaz, Asim, Stocker, Richard",
+	"title": "Universal Li-Ion Cell Electro-Thermal Model",
+	"download-url": "https://core.ac.uk/download/304336046.pdf",
+	"abstract": "This paper describes and verifies a Li-ion cell electro-thermal model and the associated data analysis process. It is designed to be adaptable and give accurate results across all variations of operating conditions and cell design based only on time domain voltage, current and temperature measurements. The creation of this model required an analysis process ensuring consistency in expressing the underlying cell behavior. This informed a flexible modelling structure adaptable both to cell performance variations and the limitations of the available test data. The model has been created with a combined thermal and electrical approach enabling 1D nodal distribution adaptable to both cylindrical and prismatic cells. These features combine with an intelligent parameter identification process identifying model structure and parameterization across the usage range, adaptable to any Nickel-Manganese-Cobalt Li-Ion cell. It is designed to retain physical meaning and representation to each circuit element across the temperature operating range. The model is verified in several different operating conditions through representative automotive cycling on an 18650 cell and a BEV2 format prismatic cell, representing the extremes of automotive cell design. The consistency of the model parameters with real phenomena is also analyzed and validated against Electrochemical Impedance Spectroscopy data",
+}

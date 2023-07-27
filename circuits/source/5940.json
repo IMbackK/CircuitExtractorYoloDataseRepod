@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/amps.2019.8897753",
+	"year": 2019,
+	"publisher": "",
+	"author": "Ferrero, Roberto, Hardwick, Laurence, IEEE,, Patelli, Edoardo, Sandschulte, Arne",
+	"title": "Approach to Wide-Frequency Battery Impedance Measurements in Commercial Applications",
+	"download-url": "https://core.ac.uk/download/286187081.pdf",
+	"abstract": "Electrochemical Impedance Spectroscopy (EIS) is a well-established diagnostic technique for the characterization and monitoring of electrochemical devices, such as batteries. As different electrochemical processes have very different dynamics, a complete characterization of batteries requires measuring their impedance over a very wide frequency range, from less than 1 mHz to more than 1 kHz. However, significant measurement challenges affect the extreme frequencies and may limit the practically achievable frequency range, particularly in case of in situ EIS. This paper analyzes the main measurement challenges that appear at low and high frequencies, respectively, and proposes possible strategies, suitable to be used in commercial applications. A compensation for the effect of the state-of-charge variation is proposed to improve the accuracy of EIS at low frequencies, while a strategy to measure high-frequency perturbations with a lower sampling frequency is presented to achieve high-frequency EIS with affordable instrumentation. Experimental results obtained on a lithium iron phosphate cell are reported, used to validate the proposed methods",
+}

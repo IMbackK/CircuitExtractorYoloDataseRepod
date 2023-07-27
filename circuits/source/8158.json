@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/ecce47101.2021.9595694",
+	"year": 2021,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Beiranvand, Hamzeh, Hahn, Frederik, Hoffmann, Felix, Liserre, Marco",
+	"title": "Impact of Partial Power Processing Dual-Active Bridge Converter on Li-ion Battery Storage Systems",
+	"download-url": "https://core.ac.uk/download/516446469.pdf",
+	"abstract": "Partial Power Processing converters (PPPCs) provide economical and highly efficient solutions to integrate battery energy storages systems (BSSs) into DC grids. Beside these significant advantages, direct connection of the batteries by PPPCs to DC grids imposes challenges on the operation of batteries which need more evaluation. DC grid imperfections such as harmonics and faults may directly propagate into BSS and result in battery capacity fade acceleration and/or battery failure. In this paper, low voltage (LV) grid imperfection impacts are compared for conventional dual-active bridge (DAB) and Partial Power Processing DAB (PPP-DAB) converters. Both theoretical and experimental studies are carried out. The obtained results show that PPP-DAB exposes the BSS to high amount of current harmonics and safety issues",
+}

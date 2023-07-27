@@ -1,0 +1,7 @@
+{
+	"publisher": "",
+	"author": "Fares, Ahmed, Klumpner, Christian, Sumner, M.",
+	"title": "Development of a battery energy loss observer based on improved equivalent circuit modelling",
+	"download-url": "https://core.ac.uk/download/42493681.pdf",
+	"abstract": "This paper proposes a new energy loss observer for batteries that has a good accuracy and low complexity. This observer can provide a support for battery management systems (BMS) in terms of predicting battery energy loss and/or battery internal temperature for given load profiles, and this enhances BMS capabilities for predictive and corrective actions. The typical observer requires an accurate battery model that represents accurately the internal resistance of the battery, and therefore battery modelling guidelines to produce a simplified equivalent circuit model (ECM) have been proposed. Experiments to validate the accuracy of the proposed model have been performed on a LiFePO4 (3.6V/8Ah) battery cell. The model parameter estimation has been achieved by fitting the model impedance to the battery impedance data obtained from electrochemical impedance spectroscopy. The energy loss estimation based on the proposed observer showed good accuracy with maximum error of ±2% under different load profiles operated within the targeted frequency range",
+}

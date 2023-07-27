@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/nano12050804",
+	"year": 2022,
+	"publisher": "'MDPI AG'",
+	"author": "Carrascoso Plana, F\303\251lix, Garc\303\255a Hern\303\241ndez, Mar, Mompe\303\241n, Federico J., Nemes, Norbert Marcel, Schmidt, Rainer",
+	"title": "Impedance spectroscopy of encapsulated single graphene layers",
+	"download-url": "https://core.ac.uk/download/511535355.pdf",
+	"abstract": "In this work, we demonstrate the use of electrical impedance spectroscopy (EIS) for the disentanglement of several dielectric contributions in encapsulated single graphene layers. The dielectric data strongly vary qualitatively with the nominal graphene resistance. In the case of sufficiently low resistance of the graphene layers, the dielectric spectra are dominated by inductive contributions, which allow for disentanglement of the electrode/graphene interface resistance from the intrinsic graphene resistance by the application of an adequate equivalent circuit model. Higher resistance of the graphene layers leads to predominantly capacitive dielectric contributions, and the deconvolution is not feasible due to the experimental high frequency limit of the EIS technique",
+}

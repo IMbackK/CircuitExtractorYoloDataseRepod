@@ -1,0 +1,9 @@
+{
+	"doi": "10.1149/2.0431707jes",
+	"year": 2017,
+	"publisher": "'The Electrochemical Society'",
+	"author": "Chen, Rui, Cruz-Manzo, Samuel, Greenwood, Paul",
+	"title": "An impedance model for EIS analysis of nickel metal hydride batteries",
+	"download-url": "https://core.ac.uk/download/82961222.pdf",
+	"abstract": "Based on fundamental electrochemical theory, an impedance model for analysis of electrochemical impedance spectroscopy (EIS) of Nickel-Metal Hydride (NiMH) batteries is presented in this study. The resulting analytical expression is analogous to the impedance response of the Randles electrical circuit used for EIS analysis on NiMH batteries. The impedance model is validated against EIS measurements carried out whilst decreasing the state of charge (SOC) of a NiMH battery pack. The diffusion mechanisms during the discharge of the NiMH battery is modelled through a Warburg element derived from diffusion theory considering reflective boundary conditions. ZView\302\256 Scribner Associates Inc. software allowed the estimation of electrochemical and diffusion parameters from EIS measurements of the NiMH battery. The effect of diffusion mechanisms on EIS measurements is discussed. The results demonstrate that ion transport is the rate-limiting process during the discharge of the NiMH battery. This EIS-modelling study has provided an insight into the interpretation of battery electrochemical mechanisms represented in the Nyquist plot from EIS. It can assist to further EIS-modelling to study and correlate State of Health (SOH) in NiMH batteries for different applications",
+}

@@ -1,0 +1,8 @@
+{
+	"year": 2008,
+	"publisher": "Idaho National Laboratory",
+	"author": "Christophersen, Jon P., Donnellan, Ian B., Morrison, John L., Morrison, William H., Motloch, Chester G.",
+	"title": "Impedance Noise Identification for State-of-Health Prognostics",
+	"download-url": "https://core.ac.uk/download/71324559.pdf",
+	"abstract": "Impedance Noise Identification is an in-situ method of measuring battery impedance as a function of frequency using a random small signal noise excitation source. Through a series of auto- and cross-correlations and Fast Fourier Transforms, the battery complex impedance as a function of frequency can be determined. The results are similar to those measured under a lab-scale electrochemical impedance spectroscopy measurement. The lab-scale measurements have been shown to correlate well with resistance and power data that are typically used to ascertain the remaining life of a battery. To this end, the Impedance Noise Identification system is designed to acquire the same type of data as an on-board tool. A prototype system is now under development, and results are being compared to standardized measurement techniques such as electrochemical impedance spectroscopy. A brief description of the Impedance Noise Identification hardware system and representative test results are presented",
+}

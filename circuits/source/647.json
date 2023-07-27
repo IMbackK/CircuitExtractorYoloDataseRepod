@@ -1,0 +1,8 @@
+{
+	"year": 2014,
+	"publisher": "'Sumy State University'",
+	"author": "Djilali, Kourtiche, Hamidreza, Shirzadfar, Thanh-Tuan, Ngo",
+	"title": "A Planar Interdigital Sensor for Bio-impedance Measurement: Theoretical analysis, Optimization and Simulation",
+	"download-url": "https://core.ac.uk/download/20492846.pdf",
+	"abstract": "This paper proposes the design of a biosensor to characterize the dielectric and conductive properties of biological materials (for example blood or water) by impedance spectroscopy. Particularly, its design optimized the geometric structure interdigitated electrodes. This optimization allows extending the frequency range of measurement by reducing the polarization effect. Polarization effect is manifested by an interface capability (or double layer) from interaction between ions and molecules in the boundary between the surface of the electrolyte and the electrodes, it increases the measurement error at low frequencies. This paper recommends also a novel method to determine the parameters (relative permittivity, thickness and capacitance per unit area) of the double layer (DL) at the contact surface of the electrode with the solution. CoventorWare software was utilized to modelize of interdigital sensor structure in three dimensions (3D) to verify the analytical results and evaluate the influence of geometrical parameters and the dielectric properties of the medium on bioelectrical impedance.\nWhen you are citing the document, use the following link http://essuir.sumdu.edu.ua/handle/123456789/3582",
+}

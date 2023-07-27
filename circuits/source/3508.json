@@ -1,0 +1,13 @@
+{
+	"year": 2015,
+	"publisher": "",
+	"author": "Lei Mao (1255392), Lisa Jackson (1250010), Sarah Dunnett (1251444)",
+	"title": "Fault diagnosis of practical proton exchange membrane fuel cell system using signal-based techniques",
+	"download-url": "https://core.ac.uk/download/288376772.pdf",
+	"abstract": "In the past few decades, hydrogen fuel cells have been suggested as an alternative energy source and engineered for a range of applications including automotive, stationary power, and consumer electronics. However, the durability and reliability of hydrogen fuel cells still remain major hurdles for its wider application.
+
+Several researchers have investigated the diagnosis of faults in fuel cell systems, various techniques have been performed to detect and isolate fuel cell faults using different measurements, including current, fuel cell voltage, polarization curve, electrochemical impedance spectroscopy, etc.
+However, in practical fuel cell systems, a series of sensors will be used to capture the system performance, thus the information contained in these sensors should be fully utilized for reliable diagnostic results.
+
+In this paper, a diagnosis procedure will be applied to practical fuel cell systems under the combined load condition. After collecting a series of measurements from the system, two techniques, principle component analysis (PCA) and Fisher linear discriminant analysis (LDA), are used to reduce the dimension of the original dataset, then coefficients are extracted from the reduced dataset using wavelet packet (WP) transform to form features  for diagnosis. Results demonstrate that with the proposed procedure, different states of fuel cell system can be distinguished with good quality",
+}

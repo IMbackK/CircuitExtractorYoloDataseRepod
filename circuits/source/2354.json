@@ -1,0 +1,9 @@
+{
+	"doi": "10.5599/jese.725",
+	"year": 2020,
+	"publisher": "'International Association of Physical Chemists (IAPC)'",
+	"author": "Bogdan Petrescu, Jean-Paul Diard, Nicolas Murer",
+	"title": "The effects of time-variance on impedance measurements:\nexamples of a corroding electrode and a battery cell",
+	"download-url": "https://core.ac.uk/download/287774141.pdf",
+	"abstract": "When performing electrochemical impedance spectroscopy (EIS) measurements on a system, we must make sure it fulfills certain conditions. One of them is that it should be stationary that is to say, steady-state and time-invariant. Commonly studied systems are\ntime-variant, for example a corroding electrode or a battery under operation. A corroding electrode sees its polarization resistance decrease with time. A passivating electrode sees its polarization resistance increase with time. These phenomena cause a deformation of\nthe Nyquist impedance at low frequencies. This result was first simulated and validated by experimental measurements on a corroding steel sample undergoing uniform corrosion. The effect of performing impedance measurements on a discharging battery was also shown. Several methods are available to check and correct time-variance. The nonstationary distortion (NSD) indicator is used to separate valid and invalid data samples and the so called \342\200\2344D impedance\342\200\235 method can easily produce instantaneous impedance data",
+}

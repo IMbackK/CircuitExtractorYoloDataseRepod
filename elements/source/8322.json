@@ -1,0 +1,9 @@
+{
+	"doi": "10.1073/pnas.1516869112",
+	"year": 2015,
+	"publisher": "'Proceedings of the National Academy of Sciences'",
+	"author": "Alan M. Bond, Alexandr N. Simonov, Alison Parkin, Guo, Hirst, Hope Adamson, Jacques, Joel H. Weiner, Michelina Kierzek, Richard A. Rothery",
+	"title": "Electrochemical evidence that pyranopterin redox chemistry controls the catalysis of YedY, a mononuclear Mo enzyme",
+	"download-url": "https://core.ac.uk/download/42618295.pdf",
+	"abstract": "A long-standing contradiction in the field of mononuclear Mo enzyme research is that small-molecule chemistry on active-site mimic compounds predicts ligand participation in the electron transfer reactions, but biochemical measurements only suggest metal-centered catalytic electron transfer. With the simultaneous measurement of substrate turnover and reversible electron transfer that is provided by Fourier-transformed alternating-current voltammetry, we show that Escherichia coli YedY is a mononuclear Mo enzyme that reconciles this conflict. In YedY, addition of three protons and three electrons to the well-characterized \"as-isolated\" Mo(V) oxidation state is needed to initiate the catalytic reduction of either dimethyl sulfoxide or trimethylamine N-oxide. Based on comparison with earlier studies and our UV-vis redox titration data, we assign the reversible one-proton and one-electron reduction process centered around +174 mV vs. standard hydrogen electrode at pH 7 to a Mo(V)-to-Mo(IV) conversion but ascribe the two-proton and two-electron transition occurring at negative potential to the organic pyranopterin ligand system. We predict that a dihydro-to-tetrahydro transition is needed to generate the catalytically active state of the enzyme. This is a previously unidentified mechanism, suggested by the structural simplicity of YedY, a protein in which Mo is the only metal site",
+}

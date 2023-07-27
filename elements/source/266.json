@@ -1,0 +1,9 @@
+{
+	"doi": "10.5220/0006712601000108",
+	"year": 2018,
+	"publisher": "'Scitepress'",
+	"author": "Daza Navarro, Mar\303\255a Paula, Huertas S\303\241nchez, Gloria, Maldonado-Jacobi, Andr\303\251s, Mart\303\255n Rubio, Mar\303\255a Esther, Olmo Fern\303\241ndez, Alberto, P\303\251rez Garc\303\255a, Pablo, Serrano, Juan A., Y\303\272fera Garc\303\255a, Alberto",
+	"title": "Practical Characterization of Cell-Electrode Electrical Models in Bio-Impedance Assays",
+	"download-url": "https://core.ac.uk/download/161254417.pdf",
+	"abstract": "This paper presents the fitting process followed to adjust the parameters of the electrical model associated to a cell-electrode system in Electrical Cell-substrate Impedance Spectroscopy (ECIS) technique, to the experimental results from cell-culture assays. A new parameter matching procedure is proposed, under the basis of both, mismatching between electrodes and time-evolution observed in the system response, as consequence of electrode fabrication processes and electrochemical performance of electrode-solution interface, respectively. The obtained results agree with experimental performance, and enable the evaluation of the cell number in a culture, by using the electrical measurements observed at the oscillation parameters in the test circuits employed.Ministerio de Econom\303\255a y Competitividad TEC2013-46242-C3-1-",
+}

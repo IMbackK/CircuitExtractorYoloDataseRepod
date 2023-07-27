@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/en9040255",
+	"year": 2016,
+	"publisher": "'MDPI AG'",
+	"author": "Bruen, Thomas, Chouchelamane, Gael, Gama, Miguel, Hooper, James Michael, Marco, James",
+	"title": "Analysis of a battery management system (BMS) control strategy for vibration aged nickel manganese cobalt oxide (NMC) Lithium-Ion 18650 battery cells",
+	"download-url": "https://core.ac.uk/download/42621122.pdf",
+	"abstract": "Electric vehicle (EV) manufacturers are using cylindrical format cells as part of the vehicle\342\200\231s rechargeable energy storage system (RESS). In a recent study focused at determining the ageing behavior of 2.2 Ah Nickel Manganese Cobalt Oxide (NMC) Lithium-Ion 18650 battery cells, significant increases in the ohmic resistance (RO) were observed post vibration testing. Typically a reduction in capacity was also noted. The vibration was representative of an automotive service life of 100,000 miles of European and North American customer operation. This paper presents a study which defines the effect that the change in electrical properties of vibration aged 18650 NMC cells can have on the control strategy employed by the battery management system (BMS) of a hybrid electric vehicle (HEV). It also proposes various cell balancing strategies to manage these changes in electrical properties. Subsequently this study recommends that EV manufacturers conduct vibration testing as part of their cell selection and development activities so that electrical ageing characteristics associated with road induced vibration phenomena are incorporated to ensure effective BMS and RESS performance throughout the life of the vehicle",
+}

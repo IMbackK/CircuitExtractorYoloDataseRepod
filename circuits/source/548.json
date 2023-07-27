@@ -1,0 +1,8 @@
+{
+	"year": 2019,
+	"publisher": "",
+	"author": "Dani Strickland (3831724), Mina Abedi-Varnosfaderani (4690591)",
+	"title": "Online impedance spectroscopy estimation of a dc\342\200\223dc converter connected battery using a switched capacitor-based balancing circuit",
+	"download-url": "https://core.ac.uk/download/288352972.pdf",
+	"abstract": "This study investigates a novel method of undertaking online electrochemical impedance spectroscopy\nmeasurements to estimate battery impedance across the frequency range using a battery balancing circuit. A switched\ncapacitor balancing system is used to generate an excitation signal of low-frequency of variable values from which battery\nvoltage and current can be measured to estimate the impedance",
+}

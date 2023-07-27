@@ -1,0 +1,9 @@
+{
+	"doi": "10.1039/c7sc05388f",
+	"year": 2018,
+	"publisher": "'Royal Society of Chemistry (RSC)'",
+	"author": "Chen, Jia-Jia, Chisholm, Greig, Cronin, Leroy, Kirkaldy, Niall",
+	"title": "A practical, organic-mediated, hybrid electrolyser that decouples hydrogen production at high current densities",
+	"download-url": "https://core.ac.uk/download/145643824.pdf",
+	"abstract": "Hydrogen is seen as a sustainable fuel of the future, yet the vast majority of global hydrogen production comes from the reformation of fossil fuels. Electrolytic water splitting using proton exchange membrane electrolysers (PEMEs) provides a pathway to sustainable hydrogen production through coupling to renewable energy sources, but can suffer from gas crossover at low current densities and high operating pressures, causing explosive gas mixtures and decreasing cell lifetimes. Here we demonstrate the application of a highly stable, organic electron-coupled proton buffer (ECPB) which allows the decoupling of hydrogen and oxygen production during water splitting. By merging concepts from redox flow battery and PEM electrolysis research, we have built a hybrid electrolyser device capable of decoupling the gas evolution reactions during water splitting. The device improves on both gas purity and operational safety, while still working at industrially relevant, high current density. Anthraquinone-2,7-disulfonic acid was used as an organic redox mediator in this two-step process, producing H2 at current densities of up to 3.71 A cm\342\210\2222 at 2.00 V, extending the concept of the ECPB",
+}

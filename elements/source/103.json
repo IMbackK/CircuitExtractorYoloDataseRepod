@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/coatings9090579",
+	"year": 2019,
+	"publisher": "'MDPI AG'",
+	"author": "Cauwe, Maarten, Li, Changzheng, Mader, Lothar, Op de Beeck, Maaike, Schaubroeck, David, Yang, Yang",
+	"title": "Ultra-long-term reliable encapsulation using an atomic layer deposited Hfo2/Al2o3/Hfo2 triple-interlayer for biomedical implants",
+	"download-url": "https://core.ac.uk/download/237010489.pdf",
+	"abstract": "Long-term packaging of miniaturized, flexible implantable medical devices is essential for the next generation of medical devices. Polymer materials that are biocompatible and flexible have attracted extensive interest for the packaging of implantable medical devices, however realizing these devices with long-term hermeticity up to several years remains a great challenge. Here, polyimide (PI) based hermetic encapsulation was greatly improved by atomic layer deposition (ALD) of a nanoscale-thin, biocompatible sandwich stack of HfO2/Al2O3/HfO2 (ALD-3) between two polyimide layers. A thin copper film covered with a PI/ALD-3/PI barrier maintained excellent electrochemical performance over 1028 days (2.8 years) during acceleration tests at 60 \302\260C in phosphate buffered saline solution (PBS). This stability is equivalent to approximately 14 years at 37 \302\260C. The coatings were monitored in situ through electrochemical impedance spectroscopy (EIS), were inspected by microscope, and were further analyzed using equivalent circuit modeling. The failure mode of ALD Al2O3, ALD-3, and PI soaking in PBS is discussed. Encapsulation using ultrathin ALD-3 combined with PI for the packaging of implantable medical devices is robust at the acceleration temperature condition for more than 2.8 years, showing that it has great potential as reliable packaging for long-term implantable devices",
+}

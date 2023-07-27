@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/rtsi.2019.8895597",
+	"year": 2019,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Airale, Andrea Giancarlo, Berzi, Lorenzo, Carello, Massimiliana, Ferraris, Alessandro, Locorotondc, Edoardo, Pierini, Marco, Pugi, Luca, Scavuzzc, Santo",
+	"title": "Modeling and simulation of Constant Phase Element for battery Electrochemical Impedance Spectroscopy",
+	"download-url": "https://core.ac.uk/download/301579440.pdf",
+	"abstract": "This paper presents a set of time-domain electrical equivalent circuit models for battery voltage prediction under arbitrary current profiles. The circuit model is composed by passive electrical components like resistance, inductance and capacitance. The constant phase elements are introduced in the model, which are usually used in electrochemical impedance spectroscopy analysis to describe the electrical property of double layer capacitors between electrode and electrolyte. The aim of the paper is the modeling in the time-domain of the constant phase elements. Two models are proposed. Model's accuracy and run speed are evaluated by comparing experimental results obtained by an appropriate testbed and simulation results obtained by the implementation and the execution of the model using Matlab software",
+}

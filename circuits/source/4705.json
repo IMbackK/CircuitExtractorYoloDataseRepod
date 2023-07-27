@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/en13082057",
+	"year": 2020,
+	"publisher": "'MDPI AG'",
+	"author": "Fernandez, Carlos, Stroe, Daniel-Ioan, Wang, Shunli, Yu, Chunmei, Zhang, Liang, Zou, Chuanyun",
+	"title": "An accurate time constant parameter determination method for the varying condition equivalent circuit model of lithium batteries.",
+	"download-url": "https://core.ac.uk/download/305113524.pdf",
+	"abstract": "An accurate estimation of the state of charge for lithium battery depends on an accurate identification of the battery model parameters. In order to identify the polarization resistance and polarization capacitance in a Thevenin equivalent circuit model of lithium battery, the discharge and shelved states of a Thevenin circuit model were analyzed in this paper, together with the basic reasons for the difference in the resistance capacitance time constant and the accurate characterization of the resistance capacitance time constant in detail. The exact mathematical expression of the working characteristics of the circuit in two states were deduced thereafter. Moreover, based on the data of various working conditions, the parameters of the Thevenin circuit model through hybrid pulse power characterization experiment was identified, the simulation model was built, and a performance analysis was carried out. The experiments showed that the accuracy of the Thevenin circuit model can become 99.14% higher under dynamic test conditions and the new identification method that is based on the resistance capacitance time constant. This verifies that this method is highly accurate in the parameter identification of a lithium battery model",
+}

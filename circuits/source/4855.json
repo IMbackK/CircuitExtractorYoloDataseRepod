@@ -1,0 +1,9 @@
+{
+	"doi": "10.1039/c8ee00001h",
+	"year": 2018,
+	"publisher": "'Royal Society of Chemistry (RSC)'",
+	"author": "Cabana, Jordi, Chiang, Yet-Ming, Choe, Min-Ju, Pan, Menghsuan Sam, Su, Liang, Thornton, Katsuyo, Tsai, Ping-Chun, Wen, Bohua, Wolfman, Mark",
+	"title": "Single-particle measurements of electrochemical kinetics in NMC and NCA cathodes for Li-ion batteries",
+	"download-url": "https://core.ac.uk/download/159548691.pdf",
+	"abstract": "The electrochemical kinetics of battery electrodes at the single-particle scale are measured as a function of state-of-charge, and interpreted with the aid of concurrent transmission X-ray microscopy (TXM) of the evolving particle microstructure. An electrochemical cell operating with near-picoampere current resolution is used to characterize single secondary particles of two widely-used cathode compounds, NMC333 and NCA. Interfacial charge transfer kinetics are found to vary by two orders of magnitude with state-of-charge (SOC) in both materials, but the origin of the SOC dependence differs greatly. NCA behavior is dominated by electrochemically-induced microfracture, although thin binder coatings significantly ameliorate mechanical degradation, while NMC333 demonstrates strongly increasing interfacial reaction rates with SOC for chemical reasons. Micro-PITT is used to separate interfacial and bulk transport rates, and show that for commercially relevant particle sizes, interfacial transport is rate-limiting at low SOC, while mixed-control dominates at higher SOC. These results provide mechanistic insight into the mesoscale kinetics of ion intercalation compounds, which can guide the development of high performance rechargeable batteries",
+}

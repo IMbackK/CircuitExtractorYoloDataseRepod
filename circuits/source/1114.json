@@ -1,0 +1,9 @@
+{
+	"doi": "10.5445/ir/1000148699",
+	"year": 2022,
+	"publisher": "MDPI",
+	"author": "Heinrich, Marco, Krewer, Ulrike, Seitz, Steffen, Wolff, Nicolas",
+	"title": "Identifying Anode and Cathode Contributions in Li-Ion Full-Cell Impedance Spectra",
+	"download-url": "https://core.ac.uk/download/534983839.pdf",
+	"abstract": "Measured impedance spectra of Li-ion battery cells are often reproduced with equivalent circuits or physical models to determine losses due to charge transfer processes at the electrodes. The identified model parameters can usually not readily or unambiguously be assigned to the anode and the cathode. A new measurement method is presented that enables the assignment of features of impedance spectra of full cells to single electrodes. To this end, temperature gradients are imprinted perpendicular to the electrode layers of a single-layered Li-ion battery cell while impedance spectra are measured. The method exploits different dependences of the charge transfer processes at the electrodes on temperature. An equivalent circuit model of RC-elements and the effect of temperature on the related electrode properties is discussed to demonstrate the feasibility of the method. A reliable assignment of the change of impedance spectra to the electrode processes is shown to be possible. The assignment can be used to identify if changes in an impedance spectrum originate from the anode or the cathode",
+}

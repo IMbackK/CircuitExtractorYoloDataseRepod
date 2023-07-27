@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tbcas.2014.2332136",
+	"year": 2014,
+	"publisher": "",
+	"author": "Demosthenous, A, Langlois, PJ, Neshatvar, N",
+	"title": "A Sinusoidal Current Driver With an Extended Frequency Range and Multifrequency Operation for Bioimpedance Applications",
+	"download-url": "https://core.ac.uk/download/29416157.pdf",
+	"abstract": "This paper describes an alternative sinusoidal current driver suitable for bioimpedance applications where high frequency operation is required. The circuit is based on a transconductor and provides current outputs with low phase error for frequencies around its pole frequency. This extends the upper frequency operational limit of the current driver. Multifrequency currents can be generated where each individual frequency is phase corrected. Analysis of the circuit is presented together with simulation and experimental results which demonstrate the proof of concept for both single and dual frequency current drivers. Measurements on a discrete test version of the circuit demonstrate a phase reduction from 25 ^{\\circ} to 4 ^{\\circ} at 3 MHz for 2 mAp-p output current. The output impedance of the current driver is essentially constant at about 1.1 M \\Omega  over a frequency range of 100 kHz to 5 MHz due to the introduction of the phase compensation. The compensation provides a bandwidth increase of a factor of about six for a residual phase delay of 4 ^{\\circ",
+}

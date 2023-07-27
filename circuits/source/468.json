@@ -1,0 +1,8 @@
+{
+	"year": 2012,
+	"publisher": "",
+	"author": "Bennett, William R., Wu, James J.",
+	"title": "Fundamental Investigation of Si Anode in Li-Ion Cells",
+	"download-url": "https://core.ac.uk/download/pdf/10569448.pdf",
+	"abstract": "Silicon is a promising and attractive anode material to replace graphite for high capacity lithium ion cells since its theoretical capacity is approximately 10 times of graphite and it is an abundant element on earth. However, there are challenges associated with using silicon as Li-ion anode due to the significant first cycle irreversible capacity loss and subsequent rapid capacity fade during cycling. In this paper, cyclic voltammetry and electrochemical impedance spectroscopy are used to build a fundamental understanding of silicon anodes. The results show that it is difficult to form the SEI film on the surface of Si anode during the first cycle, the lithium ion insertion and de-insertion kinetics for Si are sluggish, and the cell internal resistance changes with the state of lithiation after electrochemical cycling. These results are compared with those for extensively studied graphite anodes. The understanding gained from this study will help to design better Si anodes",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/lascas.2016.7451053",
+	"year": 2016,
+	"publisher": "IEEE Computer Society",
+	"author": "Huertas S\303\241nchez, Gloria, Huertas, Jos\303\251 Luis, Maldonado-Jacobi, Andr\303\251s, P\303\251rez Garc\303\255a, Pablo, Rueda Rueda, Adoraci\303\263n, Y\303\272fera Garc\303\255a, Alberto",
+	"title": "Cell-Culture Measurements Using Voltage Oscillations",
+	"download-url": "https://core.ac.uk/download/158966626.pdf",
+	"abstract": "A comprehensive system for real-time\r\nmonitoring of a set of cell-cultures using a Voltage Oscillation\r\n(VO) methodology is proposed. The main idea is to connect the\r\nbio-electrical elements (electrodes & cell-culture) in such a way\r\nthat sequentially a suitable electrical oscillator, which only uses\r\na DC power source, is built. Using the employed electrical\r\nmodels given in [1, 2], the attained oscillation parameters\r\n(frequency and amplitude) can be directly related to the\r\nbiological test. A digital circuitry is developed to pick-up the\r\nexperimental measurements, which are gathered and shown in\r\nreal-time in a web application.Ministerio de Econom\303\255a y Competitividad TEC2013-46242-C3-1-",
+}

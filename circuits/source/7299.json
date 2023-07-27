@@ -1,0 +1,9 @@
+{
+	"doi": "10.5772/52248",
+	"year": 2013,
+	"publisher": "'IntechOpen'",
+	"author": "Colomer-Farrarons, Jordi, Miribel, Pere Ll., Villagrasa, Jaime Punter",
+	"title": "Bioelectronics for Amperometric Biosensors",
+	"download-url": "https://core.ac.uk/download/322421143.pdf",
+	"abstract": "The Discrete-to-Integrated Electronics group (D2In), at the University of Barcelona, in\r\npartnership with the Bioelectronics and Nanobioengineering Group (SICBIO), is researching\r\nSmart Self-Powered Bio-Electronic Systems. Our interest is focused on the development of\r\ncustom built electronic solutions for bio-electronics applications, from discrete devices to\r\nApplication-specific integrated circuit (ASIC) solutions.\r\nThe integration of medical and electronic technologies allows the development of biomedical\r\ndevices able to diagnose and/or treat pathologies by detecting and/or monitoring pathogens,\r\nmultiple ions, PH changes, and so on. Currently this integration enables advances in various\r\nareas such as microelectronics, microfluidics, microsensors and bio-compatible materials\r\nwhich open the door to developing human body Lab-on-a-Chip implantable devices, Pointof-\r\nCare in vitro devices, etc.\r\nIn this chapter the main attention is focused on the design of instrumentation related to\r\namperometrics biosensor: biopotentiostat amplifiers and lock-in amplifiers. A potentiostat is\r\na useful tool in many fields of investigation and industry performing electrochemical trials [1],\r\nso the quantity and variety of them is very extensive. Since they can be used in studies and\r\ntargets as different as the study of chemical metal conversions [2] or carcinogenic cells\r\ndetection, neuronal activity detection or Deoxyribonucleic acid (DNA) recognition, their\r\ncharacteristics are very varied..",
+}

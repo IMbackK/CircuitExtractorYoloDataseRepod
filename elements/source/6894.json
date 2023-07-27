@@ -1,0 +1,9 @@
+{
+	"doi": "10.1063/1.5029385",
+	"year": 2018,
+	"publisher": "'AIP Publishing'",
+	"author": "Eder, Sabrina Daniela, Flatab\303\270, Ranveig, Greve, Martin M\303\270ller, Holst, Bodil, Ravn, Anders K, Reisinger, Thomas, Samelin, Bj\303\270rn",
+	"title": "Fast resolution change in neutral helium atom microscopy",
+	"download-url": "https://core.ac.uk/download/479080600.pdf",
+	"abstract": "In neutral helium atom microscopy, a beam of atoms is scanned across a surface. Though still in its infancy, neutral helium microscopy has seen a rapid development over the last few years. The inertness and low energy of the helium atoms (less than 0.1 eV) combined with a very large depth of field and the fact that the helium atoms do not penetrate any solid material at low energies open the possibility for a non-destructive instrument that can measure topology on the nanoscale even on fragile and insulating surfaces. The resolution is determined by the beam spot size on the sample. Fast resolution change is an attractive property of a microscope because it allows different aspects of a sample to be investigated and makes it easier to identify specific features. However up till now it has not been possible to change the resolution of a helium microscope without breaking the vacuum and changing parts of the atom source. Here we present a modified source design, which allows fast, step wise resolution change. The basic design idea is to insert a moveable holder with a series of collimating apertures in front of the source, thus changing the effective source size of the beam and thereby the spot size on the surface and thus the microscope resolution. We demonstrate a design with 3 resolution steps. The number of resolution steps can easily be extended.publishedVersio",
+}

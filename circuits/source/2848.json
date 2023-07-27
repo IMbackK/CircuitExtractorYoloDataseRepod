@@ -1,0 +1,9 @@
+{
+	"doi": "10.15488/1576",
+	"year": 2015,
+	"publisher": "G\303\266ttingen : Copernicus GmbH",
+	"author": "G\303\266tze, J., Jansen, P., John, Werner, Renner, D., Vergossen, D.",
+	"title": "Impedance spectra classification for determining the state of charge on a lithium iron phosphate cell using a support vector machine",
+	"download-url": "https://core.ac.uk/download/84457226.pdf",
+	"abstract": "An alternative method for determining the state of charge (SOC) on lithium iron phosphate cells by impedance spectra classification is given. Methods based on the electric equivalent circuit diagram (ECD), such as the Kalman Filter, the extended Kalman Filter and the state space observer, for instance, have reached their limits for this cell chemistry. The new method resigns on the open circuit voltage curve and the parameters for the electric ECD. Impedance spectra classification is implemented by a Support Vector Machine (SVM). The classes for the SVM-algorithm are represented by all the impedance spectra that correspond to the SOC (the SOC classes) for defined temperature and aging states. A divide and conquer based search algorithm on a binary search tree makes it possible to grade measured impedances using the SVM method. Statistical analysis is used to verify the concept by grading every single impedance from each impedance spectrum corresponding to the SOC by class with different magnitudes of charged error. \302\251 2015 Author(s).BMWi/03 ET6003 ",
+}

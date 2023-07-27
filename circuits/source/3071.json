@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tim.2019.2898049",
+	"year": 2019,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Molderez, Tom, Rabaey, Korneel, Verhelst, Marian, Zhang, Xu",
+	"title": "A current-driven six-channel potentiostat for rapid performance characterization of microbial electrolysis cells",
+	"download-url": "https://core.ac.uk/download/237011159.pdf",
+	"abstract": "Knowledge of the performance of microbial electrolysis cells under a wide range of operating conditions is crucial to achieve high production efficiencies. Characterizing this performance in an experiment, however, is challenging due to either the long measurement times of steady-state procedures or the transient errors of dynamic procedures. Moreover, wide parallelization of the measurements is not feasible due to the high measurement equipment cost per channel. Hence, to speedup this characterization and to facilitate low-cost, yet widely parallel measurements, this paper presents a novel rapid polarization curve measurement procedure with a dynamic measurement resolution that runs on a custom six-channel potentiostat with a current-driven topology. As case study, the procedure is used to rapidly assess the impact of altering pH values on a microbial electrolysis cell that produces H-2. A $\\times 2$ - $\\times 12$ speedup could be obtained in comparison with the state-of-the-art, depending on the characterization resolution (16-128 levels). On top of this speedup, measurements can be parallelized up to $6\\times $ on the presented, affordable-42-per-channel-potentiostat",
+}

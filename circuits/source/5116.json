@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tpel.2014.2331285",
+	"year": 2015,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Davidson, J.N., Foster, M.P., Stone, D.A.",
+	"title": "Real-Time Prediction of Power Electronic Device Temperatures Using PRBS-Generated Frequency-Domain Thermal Cross Coupling Characteristics",
+	"download-url": "https://core.ac.uk/download/30273740.pdf",
+	"abstract": "This paper presents a technique to predict the temperature response of a multielement thermal system based on the thermal cross coupling between elements. The complex frequency-domain cross coupling of devices is first characterized using a pseudorandom binary sequence technique. The characteristics are then used to predict device temperatures for a known input power waveform using a discrete Fourier transform-based technique. The resulting prediction shows good agreement with an example practical system used for evaluation. To reduce the computational complexity of the initial method, a digital infinite impedance response (IIR) filter is fitted to each cross coupling characteristic. A high correlation fit is demonstrated that produces a near-identical temperature response compared to the initial procedure while requiring fewer mathematical operations. Experimental validation on the practical system shows good agreement between IIR filter predictions and practical results. It is further demonstrated that this agreement can be substantially improved by taking feedback from an internal reference temperature. Additionally, the proposed IIR filter technique allows the efficient calculation of future device temperatures based on simulated input, facilitating future temperature predictions",
+}

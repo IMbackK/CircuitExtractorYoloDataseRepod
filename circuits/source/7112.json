@@ -1,0 +1,9 @@
+{
+	"doi": "10.26754/jji-i3a.201802742",
+	"year": 2018,
+	"publisher": "'Universidad de Zaragoza'",
+	"author": "Calvo L\303\263pez, Bel\303\251n, Mart\303\255nez Mart\303\255nez, Pedro A., Medrano Marqu\303\251s, Nicol\303\241s, M\303\241rquez Marzal, Alejandro",
+	"title": "A CMOS Quadrature Signal Generator for Impedance Spectroscopy Measurement Systems",
+	"download-url": "https://core.ac.uk/download/525009089.pdf",
+	"abstract": "A CMOS fully integrated quadrature signal generator for on-chip impedance spectroscopy (IS) applications is presented. Frequency can be digitally tuned from 5 to 350 kHz with 12-bit resolution. Power consumption is 0.77 mW and active area is 0.129 mm2. Its suitability for the target application is validated with a Randles test impedance cell modelling a protein.Se presenta un generador de se\303\261ales en cuadratura CMOS completamente integrado para aplicaciones de espectroscop\303\255a de impedancia en chip. La frecuencia puede controlarse digitalmente entre 5 y 350 kHz con una resoluci\303\263n de 12 bits. El consumo de potencia es de 0.77 mW y el \303\241rea activa es 0.129 mm2. Su idoneidad para la aplicaci\303\263n objetivo se valida con una impedancia de test (celda de Randles) que modela una proteina",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/jsen.2013.2251628",
+	"year": 2013,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Demosthenous, A., Kassanos, P., Triantis, I.",
+	"title": "A CMOS Magnitude/Phase Measurement Chip for Impedance Spectroscopy",
+	"download-url": "https://core.ac.uk/download/42630381.pdf",
+	"abstract": "The measurement of electrical impedance is used in a plethora of biomedical applications. The most common technique used is synchronous demodulation, which provides the real and imaginary parts of the impedance. However, in practice, the method requires elaborate calibration and matching between the injection and monitoring stages. This paper presents the integrated realization of an alternative method that is less intricate to implement. The circuit was fabricated in a 0.35-\316\274m CMOS technology, occupies an active area of 0.4 mm2 , and dissipates about 21 mW of power from \302\2612.5 V supplies. The chip was used to measure equivalent RC circuits of the electrode-tissue interface over the frequency range of 100 Hz to 100 kHz, showing good correlation with the theoretical results",
+}

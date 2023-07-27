@@ -1,0 +1,9 @@
+{
+	"doi": "10.21272/jnep.10(5).05029",
+	"year": 2018,
+	"publisher": "'Sumy State University'",
+	"author": "Hamidreza, Shirzadfar, Julien, Claudel, Nasim, Mokhtari",
+	"title": "Optimize the Geometrical Parameters of Interdigital Micro-Electrodes Used in Bioimpedance Sensing System",
+	"download-url": "https://core.ac.uk/download/231768019.pdf",
+	"abstract": "This paper is about optimizing the geometric parameters of the interdigitated electrodes. In this paper we optimize number of electrodes, length and width of them and the distance between them, in order to determine the electrical parameters such as relative permittivity and capacitance. The finite element method COMSOL Multiphysics software in frequency range 10Hz to 1GHz is used in order to measure the electrical impedance of biological medium and simulate the particle separation in micro channel",
+}

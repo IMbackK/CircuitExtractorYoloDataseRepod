@@ -1,0 +1,9 @@
+{
+	"doi": "10.1149/2.0011801jes",
+	"year": 2017,
+	"publisher": "'The Electrochemical Society'",
+	"author": "Kovacik, P, Marinescu, M, Offer, GJ, Walus, S, Zhang, T",
+	"title": "What Limits the Rate Capability of Li-S Batteries during Discharge: Charge Transfer or Mass Transfer?",
+	"download-url": "https://core.ac.uk/download/96750619.pdf",
+	"abstract": "Li-S batteries exhibit poor rate capability under lean electrolyte conditions required for achieving high practical energy densities. In this contribution, we argue that the rate capability of commercially-viable Li-S batteries is mainly limited by mass transfer rather than charge transfer during discharge. We first present experimental evidence showing that the charge-transfer resistance of Li-S batteries and hence the cathode surface covered by Li2S are proportional to the state-of-charge (SoC) and not to the current, directly contradicting previous theories. We further demonstrate that the observed Li-S behaviors for different discharge rates are qualitatively captured by a zero-dimensional Li-S model with transport-limited reaction currents. This is the first Li-S model to also reproduce the characteristic overshoot in voltage at the beginning of charge, suggesting its cause is the increase in charge transfer resistance brought by Li2S precipitation",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1088/1742-6596/459/1/012030",
+	"year": 2013,
+	"publisher": "'IOP Publishing'",
+	"author": ", Cheng D K, Demacker P, E Aristovich, Grimnes S, Hirsch F G, Holder D, Mohktar M, Rao S S, S H Khan, Scharfetter H, Shiga T, Talary M, Tender B, Texter C E, Tortora G J, Von Kaulla K, Yungal S",
+	"title": "Non-invasive measurement of cholesterol in human blood by impedance technique: an investigation by 2D finite element field modelling",
+	"download-url": "https://core.ac.uk/download/42630418.pdf",
+	"abstract": "This paper concerns detection of solid particles suspended in conductive media by impedance technique. The technique is based on changes in impedance measured between two electrodes placed across a given volume of conducting medium. It presents a methodology for modelling and investigation of the feasibility of such a technique for particle detection by 2D finite element (FE) field modelling. This is based on modelling and computation of electric field distribution between the above electrodes. It establishes the modelling approach, the complexity involved and justifies the need for modelling in 3D to incorporate some of the effects that cannot be taken into account in 2D models. It reports on the modelling investigation for a specific case of detecting, by impedance technique cholesterol particles suspended in human blood and points to a possible instrument for non-invasive measurement of blood cholesterol level",
+}

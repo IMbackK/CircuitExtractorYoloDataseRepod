@@ -1,0 +1,7 @@
+{
+	"publisher": "",
+	"author": "Reid, Margaret A.",
+	"title": "Changes in impedance of Ni/Cd cells with voltage and cycle life",
+	"download-url": "https://core.ac.uk/download/pdf/42807809.pdf",
+	"abstract": "Impedances of aerospace design Super Ni/Cd cells are being measured as functions of voltage and number of cycles. The cells have been cycled over 4400 cycles to date. Analysis of the impedance data has been made using a number of equivalent circuits. The model giving the best fit over the whole range of voltage has a parallel circuit of a kinetic resistance and a constant phase element in series with the ohmic resistance. The values for the circuit elements have been treated as empirical parameters, and no attempt has been made as yet to correlate them with physical and chemical changes in the electrode. No significant changes have been seen as yet with the exception of a decrease in kinetic resistance at low states of charge in the first 500 cycles",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/app8050659",
+	"year": 2018,
+	"publisher": "'MDPI AG'",
+	"author": "Luo, Guangzhao*, Meng, Jinhao, Ricco, Mattia, Stroe, Daniel-Ioan, Swierczynski, Maciej, Teodorescu, Remus",
+	"title": "Overview of Lithium-Ion battery modeling methods for state-of-charge estimation in electrical vehicles",
+	"download-url": "https://core.ac.uk/download/226748221.pdf",
+	"abstract": "As a critical indictor in the Battery Management System (BMS), State of Charge (SOC) is closely related to the reliable and safe operation of lithium-ion (Li-ion) batteries. Model-based methods are an effective solution for accurate and robust SOC estimation, the performance of which heavily relies on the battery model. This paper mainly focuses on battery modeling methods, which have the potential to be used in a model-based SOC estimation structure. Battery modeling methods are classified into four categories on the basis of their theoretical foundations, and their expressions and features are detailed. Furthermore, the four battery modeling methods are compared in terms of their pros and cons. Future research directions are also presented. In addition, after optimizing the parameters of the battery models by a Genetic Algorithm (GA), four typical battery models including a combined model, two RC Equivalent Circuit Model (ECM), a Single Particle Model (SPM), and a Support Vector Machine (SVM) battery model are compared in terms of their accuracy and execution time",
+}

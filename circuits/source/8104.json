@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/icsens.2008.4716525",
+	"year": 2012,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Benini, Luca, De Micheli, Giovanni, Guiducci, Carlotta, Gurkaynak, Frank K., Leblebici, Yusuf, Temiz, Y\303\274ksel, Terrettaz, Samuel, Vogel, Horst",
+	"title": "Real-time high-sensitivity impedance measurement interface for tethered BLM biosensor arrays",
+	"download-url": "https://core.ac.uk/download/147991019.pdf",
+	"abstract": "This paper presents a switched-capacitor (SC) current integrator circuit for impedance measurement of tethered bilayer lipid membrane (tBLM) biosensors. The circuit comprises a small number of high performance components enabling enhanced experimental flexibility and reliability. The sensitivity is improved significantly by suppressing the output offset through pseudo-differential operation, using R-C components for the reference impedance. The sensing and reference electrodes are excited with low-amplitude differential voltage pulses and the current response to membrane resistance (RM) change of the tBLM biosensor is converted to voltage by a precision, low-noise SC integrator available as a single-package IC. Tests with both electrical models and actual biosensors demonstrated that the proposed circuit operates with high sensitivity and can be used in single chip versions for low-cost and high-sensitive tBLM biosensor arrays, featuring multiple electrode sites",
+}

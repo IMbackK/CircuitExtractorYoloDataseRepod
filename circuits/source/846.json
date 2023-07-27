@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/0167-2738(86)90100-1",
+	"year": 1986,
+	"publisher": "North-Holland",
+	"author": "Boukamp, Bernard A.",
+	"title": "A package for impedance/admittance data analysis",
+	"download-url": "https://core.ac.uk/download/pdf/11473182.pdf",
+	"abstract": "An outline is given of a Basic computer program which facilitates the analysis of frequency dispersion data. With this program an equivalent circuit, and starting values for the corresponding circuit parameters, can be extracted from the dispersion data. A circuit description together with crude parameter values form an essential requirement for a subsequent NLLSF procedure. A brief description is given of a frequency dispersion simulation program, also written in Basic, which can be used to compare measured data with a calculated response. Both programs employ the Circuit Description Code (CDC), thus allowing the use of a variety of equivalent circuits. The use of both programs is demonstrated with the analysis of a dispersion measurement performed on a sample of Sn-doped AgCrS2, which is a pure ionic conductor",
+}

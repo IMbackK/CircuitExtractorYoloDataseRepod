@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/amps.2017.8078334",
+	"year": 2017,
+	"publisher": "",
+	"author": "Carboni, A, De Angelis, M, Ferrero, R, George-Williams, H, IEEE,, Patelli, E, Pegoraro, PA, Toscani, S, Wu, C",
+	"title": "Low-Cost Battery Monitoring by Converter-Based Electrochemical Impedance Spectroscopy",
+	"download-url": "https://core.ac.uk/download/146488370.pdf",
+	"abstract": "The use of batteries and other electrochemical devices in modern power systems is rapidly increasing, with stricter requirements in terms of cost, efficiency and reliability. Innovative monitoring solutions are therefore urged to allow a successful development of a wide range of emerging applications, including electric vehicles and large-scale energy storage to support renewable energy generation. Presently, a huge gap still exists between the accurate and sophisticated monitoring techniques commonly employed in laboratory tests, on the one hand, and the simple and rough solutions available in most commercial applications, on the other hand. The objective of this paper is therefore to contribute to the development of low-cost but accurate solutions for commercial battery condition monitoring, by proposing an embedded system that combines real-time digital signal processing with the high computational power and user friendly interface of a modern computer, at a cost comparable to a simple micro-controller. In more detail, the paper focuses on electrochemical impedance spectroscopy on a battery performed by a DC-DC power converter, and it explains how the proposed low-cost off-the-shelf hardware can control the converter, acquire the measurement signals, accurately process them in the time and frequency domains, and estimate the result uncertainty in real-time, which is necessary to promptly and reliably detect any variation in the battery condition",
+}

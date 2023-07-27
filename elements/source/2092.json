@@ -1,0 +1,9 @@
+{
+	"doi": "10.1039/c8ee02362j",
+	"year": 2019,
+	"publisher": "'Royal Society of Chemistry (RSC)'",
+	"author": "Almora, Almora, Calado, Calado, Calado, Contreras-Bernal, David Lidzey, Davide Moia, deQuilettes, Dualeh, Eames, Emilio Palomares, Ghahremanirad, Gregori, Guerrero, Hoque, Ilario Gelmetti, Jacobs, Jenny Nelson, Juarez-Perez, Kazuya, Kim, Kim, Lee, Ludmila, Mangla, Michael Stringer, Moia, Nelson, Onkar Game, Pablo Docampo, Phil Calado, Piers R. F. Barnes, Pockett, Prochowicz, Richardson, Rivnay, Schulz, Shockley, Stranks, Tress, van Reenen, Walter, William Fisher, Wu, Xiao, Xing, Yinghong Hu, Yuan, Zarazua, Zarazua, Zhao",
+	"title": "Ionic-to-electronic current amplification in hybrid perovskite solar cells: ionically gated transistor-interface circuit model explains hysteresis and impedance of mixed conducting devices",
+	"download-url": "https://core.ac.uk/download/199224707.pdf",
+	"abstract": "Mobile ions in hybrid perovskite semiconductors introduce a new degree of freedom to electronic devices suggesting applications beyond photovoltaics. An intuitive device model describing the interplay between ionic and electronic charge transfer is needed to unlock the full potential of the technology. We describe the perovskite-contact interfaces as transistors which couple ionic charge redistribution to energetic barriers controlling electronic injection and recombination. This reveals an amplification factor between the out of phase electronic current and the ionic current. Our findings suggest a strategy to design thin film electronic components with large, tuneable, capacitor-like and inductor-like characteristics. The resulting simple equivalent circuit model, which we verified with time-dependent drift-diffusion simulations of measured impedance spectra, allows a general description and interpretation of perovskite solar cell behaviour",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.est.2022.105343",
+	"year": 2022,
+	"publisher": "'Elsevier BV'",
+	"author": "Berrueta Irigoyen, Alberto, Mateos Inza, Miren, Sanchis G\303\272rpide, Pablo, Soto Cabria, Adri\303\241n, Urs\303\272a Rubio, Alfredo",
+	"title": "Impact of micro-cycles on the lifetime of lithium-ion batteries: an experimental study",
+	"download-url": "https://core.ac.uk/download/533937654.pdf",
+	"abstract": "Experimental aging studies are commonly conducted on lithium-ion batteries by full charge and discharge cycles. However, such profiles may differ from the actual operation of batteries in electric vehicles and stationary applications, where they are subjected to different partial charges and discharges. These partial cycles, which take place during a main charge or discharge process, are called micro-cycles if their depth of discharge is 1500. Nevertheless, if the number of deep cycles, disregarding micro-cycles, is the unit to measure battery use, then the degradation of cells with and without micro-cycles is similar. Based on this result, the number of cycles can be identified as a more accurate variable to measure the use of a cell, in comparison to charge throughput.This work is part of the projects PID2019-111262RB-I00, funded by MCIN/AEI/10.13039/501100011033/, STARDUST (774094), funded by European Union\302\277s Horizon 2020 research and innovation programme, HYBPLANT (0011-1411-2022-000039), funded by Government of Navarre, and a Ph.D. scholarship, funded by Public University of Navarre. Open access funding provided by Universidad P\303\272blica de Navarra",
+}

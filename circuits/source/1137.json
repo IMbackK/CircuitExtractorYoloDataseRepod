@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.jpowsour.2018.04.033",
+	"year": 2018,
+	"publisher": "'Elsevier BV'",
+	"author": "Hu, Xiaosong, Pecht, Michael, Wang, Zhenpo, Wik, Torsten, Zhang, Lei, Zou, Changfu",
+	"title": "A review of fractional-order techniques applied to lithium-ion batteries, lead-acid batteries, and supercapacitors",
+	"download-url": "https://core.ac.uk/download/198037538.pdf",
+	"abstract": "Electrochemical energy storage systems play an important role in diverse applications, such as electrified transportation and integration of renewable energy with the electrical grid. To facilitate model-based management for extracting full system potentials, proper mathematical models are imperative. Due to extra degrees of freedom brought by differentiation derivatives, fractional-order models may be able to better describe the dynamic behaviors of electrochemical systems. This paper provides a critical overview of fractional-order techniques for managing lithium-ion batteries, lead-acid batteries, and supercapacitors. Starting with the basic concepts and technical tools from fractional-order calculus, the modeling principles for these energy systems are presented by identifying disperse dynamic processes and using electrochemical impedance spectroscopy. Available battery/supercapacitor models are comprehensively reviewed, and the advantages of fractional types are discussed. Two case studies demonstrate the accuracy and computational efficiency of fractional-order models. These models offer 15\342\200\22330% higher accuracy than their integer-order analogues, but have reasonable complexity. Consequently, fractional-order models can be good candidates for the development of advanced b attery/supercapacitor management systems. Finally, the main technical challenges facing electrochemical energy storage system modeling, state estimation, and control in the fractional-order domain, as well as future research directions, are highlighted",
+}

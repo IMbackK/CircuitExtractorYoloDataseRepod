@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tim.2015.2434093",
+	"year": 2015,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Dotelli, Giovanni, Ferrero, Roberto, Latorrata, Saverio, Stampino, Paola Gallo, Toscani, Sergio",
+	"title": "Low-Cost PEM Fuel Cell Diagnosis Based on Power Converter Ripple With Hysteresis Control",
+	"download-url": "https://core.ac.uk/download/82984892.pdf",
+	"abstract": "This paper deals with a low-cost diagnostic technique for polymer electrolyte membrane (PEM) fuel cells (FCs), which exploits the ripple produced by power converters to monitor the equivalent ohmic resistance. While the available literature on this topic is focused on constant-frequency control of the power converter (such as pulsewidth modulation), this paper discusses the measurement issues that arise when hysteresis current control is employed for a dc/dc boost converter, which represents the simplest solution from the implementation point of view, and therefore particularly suitable for low-cost applications. The classic frequency-domain analysis for ohmic resistance identification, based on the Fourier transform, is compared with a time-domain analysis based on a simple identification algorithm, and a real-time implementation of the latter is presented. The experimental results are obtained on a single PEM FC, but the extension to FC stacks for commercial applications is also discussed",
+}

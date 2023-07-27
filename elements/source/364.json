@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.egyr.2020.03.029",
+	"year": 2020,
+	"publisher": "'Elsevier BV'",
+	"author": "Amine, Andre, Andre, Barsoukov, Beattie, Blyr, Bundy, Bünzli, Chen, Costard, Dollé, Ellabban, Ender, Ender, Gordon, Hoshi, Hsieh, Huet, Itagaki, Kindermann, Klink, Landesfeind, Larcher, Levi, Levi, Li, McTurk, Middlemiss, Mogensen, Momma, Nagasubramanian, Palacín, Raccichini, Rodrigues, Song, Tröltzsch, Vetter, Waldmann, Wright",
+	"title": "Characterisation of batteries by electrochemical impedance spectroscopy",
+	"download-url": "https://core.ac.uk/download/324070589.pdf",
+	"abstract": "In the pursuit of batteries with higher energy density and lower cost, central to advancement of the technology is the ability to prolong cycle life. Techniques are sought which can elucidate information on battery degradation without significantly disrupting the performance of cells. Electrochemical impedance spectroscopy (EIS) offers a non-destructive route to in-situ analysis of the dynamic processes occurring inside a battery. The technique is relatively easy to use, but meaningful data analysis requires assignment of spectroscopic features to battery impedance components. Three-electrode cell configurations afford a way to potentially disentangle the impedance components. This paper examines a number of three-electrode cell designs reported in the literature, and compares their advantages and limitations. EIS results obtained using a novel in-house, three-electrode pouch cell are reported and the results compared with those obtained from conventional two-terminal impedance complex plane plots. In this way, the separate contributions of anodic and cathodic impedances can be assessed",
+}

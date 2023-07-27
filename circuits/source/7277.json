@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/isie.2017.8001586",
+	"year": 2017,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Fares, Ahmed, Klumpner, Christian, Sumner, M., University of Nottingham",
+	"title": "Investigating the benefits and limitations of cascaded converter topologies used in modular battery systems",
+	"download-url": "https://core.ac.uk/download/82925525.pdf",
+	"abstract": "The Performance of battery packs is highly affected by imbalances between the series connected cells that provide the required string voltage. A modular battery implementation based on cascaded converters can have advantages over traditional centralized battery systems with add-ons active/passive balancing techniques. This paper investigates the use of a modular battery integrated within a cascaded converter and how the choice of the converter topology for the module influences the benefits and limitations of     the modular battery system performance. Simulation results have been obtained using  detailed battery model to validate the analysis",
+}

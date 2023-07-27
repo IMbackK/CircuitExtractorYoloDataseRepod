@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/jsen.2017.2734640",
+	"year": 2017,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Ge,  L., Hu,  Z., Li,  J. L., Wang,  Q., Wei,  G. H.",
+	"title": "Novel annular flow electromagnetic measurement system for drilling engineering.",
+	"download-url": "https://core.ac.uk/download/111364987.pdf",
+	"abstract": "Downhole micro-flux control drilling technology can effectively solve drilling accidents, such as kick and loss in narrow density window drilling scenarios. Using a downhole annular flow measurement system to obtain real-time information of downhole annular flow is the core and foundation of downhole micro-flux control drilling technology. The research work of electromagnetic flowmeters in recent years creates a challenge for downhole annular flow measurement. This paper proposes a new method for an annular flow measurement system based on the electromagnetic induction principle. First, the annular flow measuring principle, the weight function, the density of virtual current, and the magnetic field of the annular flow electromagnetic measurement system are described. Second, the basic design of the annular flow electromagnetic measurement system is described. Third, model simulation and dynamic experiments on an annular flow electromagnetic measurement system are carried out. The simulation and experimental results show a linear relationship between the system output and the annular flow rate, and also verify the correctness of annular flow electromagnetic measurement theory",
+}

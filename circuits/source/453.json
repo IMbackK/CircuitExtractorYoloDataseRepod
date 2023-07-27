@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tbme.2002.805555",
+	"year": 2002,
+	"publisher": "IEEE",
+	"author": "Buitenweg, Jan Reinoud, Marani, Enrico, Rutten, Wim L.C.",
+	"title": "Modeled channel distributions explain extracellular recordings from cultured neurons sealed to microelectrodes",
+	"download-url": "https://core.ac.uk/download/pdf/11457932.pdf",
+	"abstract": "Amplitudes and shapes of extracellular recordings from single neurons cultured on a substrate embedded microelectrode depend not only on the volume conducting properties of the neuron-electrode interface, but might also depend on the distribution of voltage-sensitive channels over the neuronal membrane. In this paper, finite-element modeling is used to quantify the effect of these channel distributions on the neuron-electrode contact. Slight accumulation or depletion of voltage-sensitive channels in the sealing membrane of the neuron results in various shapes and amplitudes of simulated extracellular recordings. However, estimation of channel-specific accumulation factors from extracellular recordings can be obstructed by co-occuring ion currents and defect sealing. Experimental data from cultured neuron-electrode interfaces suggest depletion of sodium channels and accumulation of potassium channels",
+}

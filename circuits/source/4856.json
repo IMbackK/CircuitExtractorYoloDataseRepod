@@ -1,0 +1,8 @@
+{
+	"year": 2008,
+	"publisher": "",
+	"author": "Morrison, John L., Morrison, William H.",
+	"title": "Method of Detecting System Function by Measuring Frequency Response",
+	"download-url": "https://core.ac.uk/download/pdf/10544046.pdf",
+	"abstract": "Real time battery impedance spectrum is acquired using one time record, Compensated Synchronous Detection (CSD). This parallel method enables battery diagnostics. The excitation current to a test battery is a sum of equal amplitude sin waves of a few frequencies spread over range of interest. The time profile of this signal has duration that is a few periods of the lowest frequency. The voltage response of the battery, average deleted, is the impedance of the battery in the time domain. Since the excitation frequencies are known, synchronous detection processes the time record and each component, both magnitude and phase, is obtained. For compensation, the components, except the one of interest, are reassembled in the time domain. The resulting signal is subtracted from the original signal and the component of interest is synchronously detected. This process is repeated for each component",
+}

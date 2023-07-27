@@ -1,0 +1,9 @@
+{
+	"doi": "10.17559/tv-20180829092302",
+	"year": 2019,
+	"publisher": "'Mechanical Engineering Faculty in Slavonski Brod'",
+	"author": "Liwei Zhang, Minghe Sun, Wenyan Dong, Yang Yang",
+	"title": "Modeling and Simulation of Working Characteristics of Lithium Titanate Batteries for Emergency Power Transmission",
+	"download-url": "https://core.ac.uk/download/212493797.pdf",
+	"abstract": "This paper presents a battery model applied to dynamic simulation software. The simulation model uses only the battery State-Of-Charge (SOC) as a state variable in order to avoid the algebraic loop problem. It is shown that this model, composed of a controlled voltage source in series with a resistance, can accurately describe the lithium titanate battery discharge process. The model\342\200\231s parameters can be easily extracted from the manufacturer\342\200\231s discharge curve. In this paper, it is actually applied to the self-starting system after the emergency stop of the EMU, the simulation model of the system is established by MATLAB/Simulink, and the ground test platform is used to simulate the actual working condition of EMU to complete the experimental verification. The results of both simulation and experiment proved that the scheme of battery self-shifting driven system is feasible and correct",
+}

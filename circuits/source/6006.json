@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.jpowsour.2016.01.001",
+	"year": 2016,
+	"publisher": "'Elsevier BV'",
+	"author": "Bruen, Thomas, Marco, James",
+	"title": "Modelling and experimental evaluation of parallel connected lithium ion cells for an electric vehicle battery system",
+	"download-url": "https://core.ac.uk/download/42618415.pdf",
+	"abstract": "Highlights:\n\n\n\n\342\200\242 Experimental evaluation of energy imbalance within parallel connected cells.\n\n\342\200\242 A validated new method of combining equivalent circuit models in parallel.\n\n\342\200\242 Interdependence of capacity, voltage and impedance for calculating cell currents.\n\n\342\200\242 A 30% difference in impedance can result in a 60% difference in peak cell current.\n\n\342\200\242 A difference of over 6% in charge throughput was observed during cycling.\n\n\n\nAbstract:\n\n\n\nVariations in cell properties are unavoidable and can be caused by manufacturing tolerances and usage conditions. As a result of this, cells connected in series may have different voltages and states of charge that limit the energy and power capability of the complete battery pack. Methods of removing this energy imbalance have been extensively reported within literature. However, there has been little discussion around the effect that such variation has when cells are connected electrically in parallel. This work aims to explore the impact of connecting cells, with varied properties, in parallel and the issues regarding energy imbalance and battery management that may arise. This has been achieved through analysing experimental data and a validated model. The main results from this study highlight that significant differences in current flow can occur between cells within a parallel stack that will affect how the cells age and the temperature distribution within the battery assembly",
+}

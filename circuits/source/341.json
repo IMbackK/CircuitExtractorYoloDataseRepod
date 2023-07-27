@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/epe.2016.7695638",
+	"year": 2016,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Strickland, D., Varnosfaderani, M.A.",
+	"title": "Online impedance spectroscopy estimation of a battery",
+	"download-url": "https://core.ac.uk/download/78899880.pdf",
+	"abstract": "Electrochemical impedance spectroscopy (EIS) is a helpful tool to understand how a battery is behaving and how it degrades. One of the disadvantages is that it is typically an 'off-line' process. This paper investigates an alternative method of looking at impedance spectroscopy of a battery system while it is on-line and operational by manipulating the switching pattern of the dc-dc converter to generate low frequency harmonics in conjunction with the normal high frequency switching pattern to determine impedance in real time. However, this adds extra ripple on the inductor which needs to be included in the design calculations. The paper describes the methodology and presents some experimental results in conjunction with EIS results to illustrate the concept",
+}

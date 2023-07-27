@@ -1,0 +1,8 @@
+{
+	"year": 2013,
+	"publisher": "HAL CCSD",
+	"author": "Al-Nazer, Rouba, Cattin, Viviane, Granjon, Pierre, Heiries, Vincent, Montaru, Maxime, Ranieri, Marco",
+	"title": "Classical EIS and square pattern signals comparison based on a well-known reference impedance",
+	"download-url": "https://core.ac.uk/download/52682860.pdf",
+	"abstract": "International audienceElectrochemical impedance spectroscopy or ac impeda nce methods are popularly used for the diagnosis of electrochemical generators (batteries or fuel cell) . It is now possible to acquire and quantitatively interpret the experimental electrical impedances of such syst ems, whose evolutions indirectly reflect the modifications of the internal electrochemical proce ss. The scope of these measurement methods is to identify the frequency response function of the sys tem under test by applying a small signal perturbat ion to the system input, and measuring the corresponding r esponse. Once identified, and according to the application, frequency response functions can provi de useful information about the characteristics of the system. Classical EIS consists in applying a set of frequency-controlled sine waves to the input of th e system. However, the most difficult problem is the integration of this type of measuring device in embedded systems. In order to overcome this problem , we propose to apply squared pattern excitation signals to perform such impedance measurements. In this paper, we quantify and compare the performance of classical EIS and the proposed broadband identif ication method applied to a well-known impedance circuit",
+}

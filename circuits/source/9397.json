@@ -1,0 +1,8 @@
+{
+	"year": 2014,
+	"publisher": "'Institute of Advanced Engineering and Science'",
+	"author": "McDermott, Mark",
+	"title": "Cognitive Sensor Platform",
+	"download-url": "https://core.ac.uk/download/329119070.pdf",
+	"abstract": "This paper describes a platform that is used to build embedded sensor systems for low energy implantable applications. One of the key characteristics of the platform is the ability to reason about the environment and dynamically modify the operational parameters of the system. Additionally the platform provides to ability to compose application specific sensor systems using a novel computational element that directly supports a synchronous-dataflow (SDF) programming paradigm. Cognition in the context of a sensor platform is defined as the \342\200\234process of knowing, including aspects of awareness, perception, reasoning, and judgment\342\200\235.DOI:http://dx.doi.org/10.11591/ijece.v4i4.568",
+}

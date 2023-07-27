@@ -1,0 +1,9 @@
+{
+	"doi": "10.1016/j.proeng.2015.08.605",
+	"year": 2015,
+	"publisher": "The Authors. Published by Elsevier Ltd.",
+	"author": "Schmitt, Bastian, Sch\303\274tze, Andreas",
+	"title": "Novel Multiparameter Microsensor for Determination of Fluid Mixture Properties and Flow Rate ",
+	"download-url": "https://core.ac.uk/download/pdf/81973212.pdf",
+	"abstract": "AbstractA sophisticated, dynamic hot disk sensor enables simultaneous determination of flow velocity and mixture ratio in binary fluid mixtures with known components. It combines the measurement of different physical properties of the mixture with only very few sensing elements and very simple manufacturing technology and addresses especially low cost mobile applications, e.g., direct methanol fuel cells (DMFC) or on-board diagnosis for the urea/water mixture in selective catalytic reduction (SCR) exhaust gas after-treatment systems for diesel engines. In the latter application, the system can also identify misuse, i.e. an unsuitable fluid being used instead of urea solution, by measuring the complex impedance of the fluid. Finally, multiparameter read-out also offers the possibility of a sensor self-test, e.g., to monitor degradation due to surface contamination",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/pr9050848",
+	"year": 2021,
+	"publisher": "'MDPI AG'",
+	"author": "Antunes Staffolani, Arianna Baldinelli, Francesco Nobili, Gianni Bidini, Linda Barelli",
+	"title": "Early-Stage Detection of Solid Oxide Cells Anode Degradation by Operando Impedance Analysis",
+	"download-url": "https://core.ac.uk/download/541169196.pdf",
+	"abstract": "Solid oxide cells represent one of the most efficient and promising electrochemical tech- nologies for hydrogen energy conversion. Understanding and monitoring degradation is essential for their full development and wide diffusion. Techniques based on electrochemical impedance spectroscopy and distribution of relaxation times of physicochemical processes occurring in solid oxide cells have attracted interest for the operando diagnosis of degradation. This research paper aims to validate the methodology developed by the authors in a previous paper, showing how such a diagnostic tool may be practically implemented. The validation methodology is based on applying an a priori known stress agent to a solid oxide cell operated in laboratory conditions and on the discrete measurement and deconvolution of electrochemical impedance spectra. Finally, experi- mental evidence obtained from a fully operando approach was counterchecked through ex-post material characterization",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1149/2.0081507eel",
+	"year": 2015,
+	"publisher": "OpenSIUC",
+	"author": "Falola, Daniel, Radhakrishnan, Rajeswaran, Suni, Ian",
+	"title": "Impedance Biosensor Utilizing a Si Substrate Deposited by Wet Methods",
+	"download-url": "https://core.ac.uk/download/60582983.pdf",
+	"abstract": "We report an impedance biosensor utilizing a Si electrode created by wet chemical deposition atop 6061 Al alloy. The sensor electrode is created by galvanic/electroless Si deposition from an electrolyte containing 10 mM HF and 20 mM Na2SiF6 in 80 wt% formic acid, followed by antibody immobilization. The impedance response of the sensor electrode to increasing concentrations of peanut protein Ara h 1, a common food allergen, can be fit to an equivalent circuit containing three RC loops. The circuit element most sensitive to antigen binding is the charge transfer resistance, yielding a detection limit of 4 ng/mL",
+}

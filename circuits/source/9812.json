@@ -1,0 +1,9 @@
+{
+	"doi": "10.3390/en15030792",
+	"year": 2022,
+	"publisher": "'MDPI AG'",
+	"author": "L\303\263pez Villanueva, Juan Antonio, Rodr\303\255guez Bol\303\255var, Salvador",
+	"title": "Constant Phase Element in the Time Domain: The Problem of Initialization",
+	"download-url": "https://core.ac.uk/download/493008198.pdf",
+	"abstract": "This research was partially funded by the TIC105 research group of the University of Granada.The constant phase element (CPE) is found in most battery and supercapacitor equivalent\r\ncircuit models proposed to interpret data in the frequency domain. When these models are used\r\nin the time domain, the initial conditions in the fractional differential equations must be correctly\r\nimposed. The initial state problem remains controversial and has been analyzed by various authors\r\nin the last two decades. This article attempts to clarify this problem by proposing a procedure to\r\nprepare the initial state and defining a decay function that reveals the effect of the initial state in\r\nseveral illustrative examples. This decay function depends on the previous history, which is reflected\r\nin the time needed to prepare the initial state and on the current profile assumed for this purpose.\r\nThis effect of the initial state is difficult to separate and can lead to the misinterpretation of the CPE\r\nparameter values.University of Granada\tTIC10",
+}

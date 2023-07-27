@@ -1,0 +1,9 @@
+{
+	"doi": "10.5599/jese.2013.0033",
+	"year": 2013,
+	"publisher": "'International Association of Physical Chemists (IAPC)'",
+	"author": "Daniel J. Brett, Oliver Curnick, Quentin Meyer, Simon Barass, Tobias Reisch",
+	"title": "A multichannel frequency response analyser for impedance spectroscopy on power sources",
+	"download-url": "https://core.ac.uk/download/18314808.pdf",
+	"abstract": "A low-cost multi-channel frequency response analyser (FRA) has been developed based on a DAQ (data acquisition)/LabVIEW interface. The system has been tested for electric and electrochemical impedance measurements. This novel association of hardware and software demonstrated performance comparable to a commercial potentiostat / FRA for passive electric circuits. The software has multichannel capabilities with minimal phase shift for 5 channels when operated below 3 kHz. When applied in active (galvanostatic) mode in conjunction with a commercial electronic load (by discharging a lead acid battery at 1.5 A) the performance was fit for purpose, providing electrochemical information to characterize the performance of the power source",
+}

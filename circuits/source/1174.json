@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/iecon.2016.7793233",
+	"year": 2016,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Gladwin, D.T., Nejad, S., Stone, D.A.",
+	"title": "A hybrid battery parameter identification concept for lithium-ion energy storage applications",
+	"download-url": "https://core.ac.uk/download/80840279.pdf",
+	"abstract": "\302\251 2016 IEEE.Persistent of excitation of the input/output signals is a necessity for any online parameter identification technique. In most real battery systems, the drive signals may not fully satisfy this condition at all times, which can lead to divergence and failure of the incorporated battery management system. Therefore, in this paper, a hybrid battery parameter identification concept is proposed whereby the parameters are initially identified using a special random signal called the pseudo random binary sequences. Thereafter, the Kalman filter algorithm is implemented online to estimate and track any 'disturbances' caused by varying operating conditions. A dynamic European drive cycle is used to experimentally verify the excellent performance of the proposed technique against a more precise electrochemical impedance spectroscopy method",
+}

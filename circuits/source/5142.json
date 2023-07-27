@@ -1,0 +1,9 @@
+{
+	"doi": "10.1149/1.1837114",
+	"year": 1996,
+	"publisher": "Iowa State University Digital Repository",
+	"author": "Hebert, Kurt R., Wang, Mei-Hui",
+	"title": "An Electrical Model for the Cathodically Charged Aluminum Electrode",
+	"download-url": "https://core.ac.uk/download/38934527.pdf",
+	"abstract": "A mathematical model was formulated for the surface film on aluminum which considered the film to consist of an inner barrier high\342\200\220field conducting layer and an outer, porous, ohmically conducting layer. It included all relevant capacitive and faradaic processes, and incorporated the nonlinearity of conduction and reaction rate expressions. The model was used to investigate structural changes produced by cathodic polarization in acid solutions, which has been found to promote anodic pitting strongly in ac etching processes. The film\\u27s structural parameters were fit to experimental current transients following anodic potential steps after cathodic charging. The model was found to represent experimental current decays realistically over several orders of magnitude variation of current density (factor of 103) and time (factor of 105). To a first approximation, cathodic activation could be described in terms of a decrease of the inner layer thickness (\316\264) from about 30 to 15 or 20 \303\205 and an increase of the porosity (p) to 0.02. These changes were interpreted as being due to the rapid penetration of pores into the outer portion of the initial film. The pores may have been produced by electrochemical dissolution of the oxide during cathodic current flow through the film. The promotion of pitting by cathodic charging in chloride solutions suggests that some fraction of the pores may penetrate to the metal",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/tim.2015.2406051",
+	"year": 2015,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Dotelli, Giovanni, Ferrero, Roberto, Latorrata, Saverio, Stampino, Paola Gallo, Toscani, Sergio",
+	"title": "PEM Fuel Cell Drying and Flooding Diagnosis With Signals Injected by a Power Converter",
+	"download-url": "https://core.ac.uk/download/82984891.pdf",
+	"abstract": "In this paper, a low-cost approach for polymer electrolyte membrane fuel cell (FC) drying and flooding diagnosis based on power converter ripple is presented, suitable to be implemented in commercial applications. If proper signal processing algorithms are employed, the high-frequency ripple inherently produced by switch-mode converters allows one to monitor the FC ohmic resistance, which is a good indicator for membrane drying, while an ad hoc switching control of the converter allows one to monitor also the low-frequency impedance, which is an indicator for cell flooding. This technique is tested with a dc/dc boost converter directly connected to a single cell, discussing how different FC operation modes (such as constant current or constant voltage) may affect the sensitivity required to the diagnostic algorithm to correctly recognize drying and flooding occurrences",
+}

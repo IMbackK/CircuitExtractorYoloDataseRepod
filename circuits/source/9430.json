@@ -1,0 +1,9 @@
+{
+	"doi": "10.1109/iecon.2018.8591185",
+	"year": 2018,
+	"publisher": "'Institute of Electrical and Electronics Engineers (IEEE)'",
+	"author": "Baronti, F., Di Rienzo, R., Hoedemaekers, E. R. G., Lorentz, V. R. H., Morello, R., Roncella, R., Rosca, B., Saletti, R., Schwarz, R.",
+	"title": "Advances in Li-Ion battery management for electric vehicles",
+	"download-url": "https://core.ac.uk/download/pdf/195746762.pdf",
+	"abstract": "This paper aims at presenting new solutions for advanced Li-Ion battery management to meet the performance, cost and safety requirements of automotive applications. Emphasis is given to monitoring and controlling the battery temperature, a parameter which dramatically affects the performance, lifetime, and safety of Li-Ion batteries. In addition to this, an innovative battery management architecture is introduced to facilitate the development and integration of advanced battery control algorithms. It exploits the concept of smart cells combined with an FPGA-based centralized unit. The effectiveness of the proposed solutions is shown through hardware-in-the-loop simulations and experimental results",
+}

@@ -1,0 +1,9 @@
+{
+	"doi": "10.22158/se.v4n4p241",
+	"year": 2019,
+	"publisher": "'Scholink Co, Ltd.'",
+	"author": "Abdellaoui, M., Moussa, M. Ben",
+	"title": "Modeling of the Electrochemical Reactions at the Electrode-Electrolyte Interface of Nickel/Metal Hydride Batteries by an Equivalent Electrical Circuit",
+	"download-url": "https://core.ac.uk/download/268085802.pdf",
+	"abstract": "Based on the experimental impedance spectra, the electrochemical reactions that are deposed at the electrode-electrolyte interface can be modeled by equivalent electrical circuits. Each element used in the circuit must have a physical correspondence in the electrochemical system. In this work, a model has been proposed to a NiMH battery electrode to describe, in detail, the electrochemical process at the interface of this electrode. The theoretical impedance of a proposed circuit is a function of several variables. These adjusted variables to reach a good agreement between the theoretical spectra and the experimental spectra in the studied frequency. The Z-simplex software allows refining the experimental results. These results show a good superposition between the experimental spectra and the theoretical spectra corresponding to the proposed electric circuit. This leads to the conclusion that the proposed circuit describes the phenomena that take place at the interface of the hydride electrode",
+}

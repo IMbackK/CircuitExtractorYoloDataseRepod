@@ -1,0 +1,8 @@
+{
+	"year": 2017,
+	"publisher": "Health Sciences Research Commons",
+	"author": "Gerth, Wayne, Lew, Susie Q., Loughry, Marty, Montgomery, Leslie, Montgomery, Richard, Velasquez, Manuel T.",
+	"title": "A system to monitor segmental intracellular, interstitial, and intravascular volume and circulatory changes during acute hemodialysis",
+	"download-url": "https://core.ac.uk/download/230872405.pdf",
+	"abstract": "This paper describes a new combined impedance plethysmographic (IPG) and electrical bioimpedance spectroscopic (BIS) instrument and software that allows noninvasive real-time measurement of segmental blood flow and changes in intracellular, interstitial, and intravascular volumes during various fluid management procedures. The impedance device can be operated either as a fixed frequency IPG for the quantification of segmental blood flow and hemodynamics or as a multi-frequency BIS for the recording of intracellular and extracellular resistances at 40 discrete input frequencies. The extracellular volume is then deconvoluted to obtain its intra-vascular and interstitial component volumes as functions of elapsed time. The purpose of this paper is to describe this instrumentation and to demonstrate the information that can be obtained by using it to monitor segmental compartment volumes and circulatory responses of end stage renal disease patients during acute hemodialysis. Such information may prove valuable in the diagnosis and management of rapid changes in the body fluid balance and various clinical treatments",
+}
